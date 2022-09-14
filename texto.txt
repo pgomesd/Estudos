@@ -1,0 +1,10 @@
+-cd /
+-dir = lista
+-mkdir = cria pasta
+-del/rmdir = apaga pasta
+echo = imprime uma saída
+ls = lista pastas e arquivos
+ls -a = lista pastas e arquivos ocultos
+git init = cria-se um repositório
+git add = 
+git commit = 
