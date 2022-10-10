@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\ExemploFundamentos\\ExemploFundamentos.csproj": {}
+    "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\ExemploFundamentos.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\ExemploFundamentos\\ExemploFundamentos.csproj": {
+    "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\ExemploFundamentos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectUniqueName": "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\ExemploFundamentos.csproj",
         "projectName": "ExemploFundamentos",
-        "projectPath": "C:\\Workspace\\ExemploFundamentos\\ExemploFundamentos.csproj",
+        "projectPath": "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\ExemploFundamentos.csproj",
         "packagesPath": "C:\\Users\\paabl\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\ExemploFundamentos\\obj\\",
+        "outputPath": "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\paabl\\AppData\\Roaming\\NuGet\\NuGet.Config"

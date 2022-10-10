@@ -1,15 +1,22 @@
 ﻿using ExemploFundamentos.Models;
 
 
-DateTime dataAtual = DateTime.Now.AddDays(5);
-Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
+
+int a = 10;
+int b = 20;
+
+int c = a + b;
+
+c = c + 5;
+
+Console.WriteLine(c);
 
 
 
 
 
-
-
+// DateTime dataAtual = DateTime.Now.AddDays(5);
+// Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
 
 
 
@@ -34,14 +41,11 @@ Console.WriteLine(dataAtual.ToString("dd/MM/yyyy HH:mm"));
 
 
 
-
-
 // Console.WriteLine(apresentacao);
 // Console.WriteLine("Valor da váriavel qunatidade: " + quantidade);
 // Console.WriteLine("Valor da váriavel altura: " + altura.ToString("0.00"));
 // Console.WriteLine("Valor da váriavel preco: " + preco);
 // Console.WriteLine("Valor da váriavel condicao: " + condicao);
-
 
 
 
