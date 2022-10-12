@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\ExemploFundamentos.csproj",
-      "projectName": "ExemploFundamentos",
-      "projectPath": "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\ExemploFundamentos.csproj",
+      "projectUniqueName": "C:\\Workspace\\Estudos\\dotNet-C#\\DotNetC.csproj",
+      "projectName": "DotNetC",
+      "projectPath": "C:\\Workspace\\Estudos\\dotNet-C#\\DotNetC.csproj",
       "packagesPath": "C:\\Users\\paabl\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\obj\\",
+      "outputPath": "C:\\Workspace\\Estudos\\dotNet-C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paabl\\AppData\\Roaming\\NuGet\\NuGet.Config"

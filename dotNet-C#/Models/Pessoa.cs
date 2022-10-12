@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ExemploFundamentos.Models
+namespace dotNetC.Models
 {
     public class Pessoa
     {

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mAAn4GG7zwvcIaHWhQ8nthWEaGDVLO6/ex8hOSNEJwXr+Bvel9L1VJwairGKAh+VElXPGEuLi5W/xwbgEfVfDw==",
+  "dgSpecHash": "VMfMr0Ga76DjRFxuQM6e+YArQnp0dC6b4ypx8sxim1R7HcPvINKPh7B8jeda52RcFwkVn2vAAzyf9Z3wlS8YhA==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\Estudos\\Conhecendo a Plataforma .NET com C#\\Sintaxe e Tipos de Dados\\ExemploFundamentos.csproj",
+  "projectFilePath": "C:\\Workspace\\Estudos\\dotNet-C#\\dotNetC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
