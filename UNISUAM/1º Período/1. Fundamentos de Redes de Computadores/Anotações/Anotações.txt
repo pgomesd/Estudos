@@ -1,0 +1,43 @@
+em meados de 1838, em que o pintor e inventor Samuel Finley Breese Morse desenvolveu 
+um sistema binário de representação da distância de números, letras e sinais 
+gráficos, que utilizava sons curtos e longos, traços e pontos para transmitir 
+mensagens, nomeado Código Morse
+
+Leonard Kleinrock, em 1962, sobre a teoria das filas, conceito utilizado 
+como base matemática para a comutação de pacotes, a tecnologia-base por trás 
+do que hoje conhecemos como internet. Por volta de 1960, o Departamento 
+de Defesa dos Estados Unidos fez um acordo com a RAND Corporation 
+buscando uma solução em meio à Guerra Fria
+
+. Paul Baran, que trabalhava naquela empresa, apresentou um projeto em que aplicava a 
+teoria de Leonard Kleinrock na transmissão de voz em redes militares, que 
+atribuía maior segurança para a comunicação
+
+1978, criou-se o protocolo TCP/IP, utilizado até os dias atuais em redes 
+de computadores
+
+(Wide Area Network — WAN) abrangem com frequência um país ou continente. Nas 
+WAN, existem numerosas linhas de transmissão, todas conectadas a um par 
+de roteadores. Forouzan (2008) se refere à primeira como WAN comutada e à 
+segunda como WAN ponto a ponto.
+
+
+(Metropolitan Area Network — MAN) abrange uma 
+cidade ou região metropolitana. O exemplo mais conhecido de uma MAN é a 
+rede de televisão a cabo disponível em muitas cidades.
+
+(Local Area Network — LAN) conecta alguns dispositivos 
+em um único escritório, prédio ou campus.
+
+Arquitetura de Redes de Computadores
+
+Arquitetura OSI
+Camada 1 - Nível físico: transmissão de bits através de um canal de comunicação
+Camada 2 - Nível de enlace: ligação entre dois hosts, detecta e corrige erros, enquadramento, controle de fluxo
+Camada 3 - Nível de rede: roteamento, circuito virtual, datagrama
+Camada 4 - Nível de transporte: conexão fim-a-fim
+Camada 5 - Nível de sessão: controle do diálogo, controle de atividade
+Camada 6 - Nível de apresentação: padronização dos dados
+Camada 7 - Nível de aplicação: aplicações específicas
+
+Arquitetura TCP/IP (Internet)

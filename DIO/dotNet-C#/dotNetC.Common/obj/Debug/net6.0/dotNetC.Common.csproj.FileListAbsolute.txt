@@ -1,0 +1,12 @@
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\bin\Debug\net6.0\dotNetC.Common.deps.json
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\bin\Debug\net6.0\dotNetC.Common.dll
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\bin\Debug\net6.0\dotNetC.Common.pdb
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\dotNetC.Common.csproj.AssemblyReference.cache
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\dotNetC.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\dotNetC.Common.AssemblyInfoInputs.cache
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\dotNetC.Common.AssemblyInfo.cs
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\dotNetC.Common.csproj.CoreCompileInputs.cache
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\dotNetC.Common.dll
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\refint\dotNetC.Common.dll
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\dotNetC.Common.pdb
+C:\Workspace\Estudos\dotNet-C#\dotNetC.Common\obj\Debug\net6.0\ref\dotNetC.Common.dll
