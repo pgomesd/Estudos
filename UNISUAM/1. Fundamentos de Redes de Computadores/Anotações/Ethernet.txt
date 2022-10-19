@@ -1,3 +1,0 @@
-Rede Ethernet
-Os engenheiros Bob Metcalfe e DR Boggs desenvolveram a Ethernet no início de 1972. Os padrões da indústria baseados em seu trabalho foram estabelecidos em 1980 sob o conjunto de especificações 802.3 do IEEE. As especificações Ethernet definem protocolos de transmissão de dados de baixo nível e os detalhes técnicos que os fabricantes precisam saber para construir produtos Ethernet, como placas e cabos. A tecnologia Ethernet evoluiu e amadureceu nos anos seguintes. Hoje em dia, o consumidor pode contar com produtos Ethernet prontos para funcionar conforme projetado e em conjunto. 
-Por décadas, a Ethernet provou ser uma tecnologia de LAN (rede local) relativamente barata, razoavelmente rápida e muito popular.
