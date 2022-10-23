@@ -1,0 +1,15 @@
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\bin\Debug\net6.0\Explorando.exe
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\bin\Debug\net6.0\Explorando.deps.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\bin\Debug\net6.0\Explorando.runtimeconfig.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\bin\Debug\net6.0\Explorando.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\bin\Debug\net6.0\Explorando.pdb
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.csproj.AssemblyReference.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.AssemblyInfoInputs.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.AssemblyInfo.cs
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.csproj.CoreCompileInputs.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\refint\Explorando.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.pdb
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.genruntimeconfig.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\ref\Explorando.dll
