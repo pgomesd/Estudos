@@ -10,4 +10,5 @@
 - [Comentários e Boas Práticas em C#](https://drive.google.com/file/d/1OEqoAU5ZDRX15kcczb6yzt0sdTZClfXE/view)
  ## 2. Explorando a Linguagem C#
  - [Propriedades, métodos e construtores](https://docs.google.com/presentation/d/1y4K1Yn3_fBPD2E3qfL1tYFYSmXVewcAu/edit#slide=id.p11)
+ - [Manipulando valores](https://docs.google.com/presentation/d/12xgpQrBtxFW28cStLC5WF1IiO4JCiOYK/edit#slide=id.p1)
 
