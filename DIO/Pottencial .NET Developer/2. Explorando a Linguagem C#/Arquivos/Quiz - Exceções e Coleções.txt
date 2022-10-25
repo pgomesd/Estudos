@@ -1,0 +1,7 @@
+Existe um bloco que sempre é executado juntamente com o bloco Try/Catch, independente se ocorrer uma exceção ou não. Para esse bloco, usamos a palavra finally.
+Para lançarmos uma exception e interromper o fluxo de nosso código, usamos uma palavra reservada, conhecida como throw.
+Para prevermos uma exceção, usamos duas palavras reservadas, uma na qual define o escopo de execução, e a outra que trata a exceção retornada. Essas palavras são try/catch.
+Uma coleção do tipo fila (queue) implementa uma regra específica para inserção e remoção de elementos, na qual o primeiro a entrar também é o primeiro a sair. Essa ordem é conhecida como FIFO(First In, First Out).
+Para lermos todas as linhas de um arquivo e retornar uma coleção de strings, podemos usar a classe File, e o seu método File.ReadAllLines.
+Uma coleção do tipo Dictionary é uma estrutura que armazena chave e valor, permitindo armazenar e recuperar elementos através desta chave. Uma característica da coleção do tipo Dictionary em relação a armazenamento de elementos é que a chave deve ser única, caso contrário, retornará uma exceção.
+Uma coleção do tipo pilha (stack) implementa uma regra específica para inserção e remoção de elementos, na qual o último a entrar é o primeiro a sair. Essa ordem é conhecida como LIFO(Last In, First Out).
