@@ -1,0 +1,4 @@
+Podemos representar um tipo de dado que pode agrupar outros tipos de dados, sejam iguais ou não, podendo alterar  o valor desses elementos. Esse tipo é conhecido como tupla.
+Podemos usar uma sintaxe alternativa e mais enxuta para a instrução IF e ELSE. Essa sintaxe é conhecida como if ternário.
+Existe uma operação contrária ao construtor, onde o primeiro constrói o objeto, e o segundo "desmonta" as suas propriedades e variáveis. Estamos falando do deconstrutor.
+Podemos omitir o retorno de valores que não precisamos de uma tupla. Esse conceito é conhecido como descartes(_)

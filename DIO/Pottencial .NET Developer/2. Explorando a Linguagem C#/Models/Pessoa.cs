@@ -11,11 +11,19 @@ namespace Explorando.Models
         {
 
         }
-
+        
+        //Construtor
         public Pessoa(string nome, string sobrenome)
         {
             Nome = nome;
             Sobrenome = sobrenome;
+        }
+
+        //Deconstrutor
+        public void Deconstruct(out string nome, out string sobrenome)
+        {
+            nome = Nome;
+            sobrenome = Sobrenome;
         }
         private string _nome;
         private int _idade;

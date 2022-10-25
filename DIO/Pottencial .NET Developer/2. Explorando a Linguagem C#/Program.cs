@@ -2,13 +2,102 @@
 using System.Globalization;
 
 
-Dictionary<string, string> estados = new Dictionary<string, string>();
 
-estados.Add("SP", "São Paulo");
-estados.Add("BA", "Bahia");
-estados.Add("MG", "Minas Gerais");
 
-Console.WriteLine(estados["MG"]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// IF Ternário
+// int numero = 10;
+// bool ehPar = false;
+
+
+// ehPar = numero % 2 == 0;
+// Console.WriteLine($"O número {numero} é" + (ehPar ? " par" : " ímpar"));
+
+// if (numero % 2 == 0)
+// {
+//     Console.WriteLine($"O número {numero} é par");
+// }
+// else
+// {
+//     Console.WriteLine($"O número {numero} é ímpar");
+// }
+
+// DECONSTRUCT
+// Pessoa p1 = new Pessoa("Pablo", "Gomes");
+
+// (string nome, string sobrenome) = p1;
+
+// Console.WriteLine($"{nome} {sobrenome}");
+
+// TUPLA EM MÉTODOS
+// LeituraArquivo arquivo = new LeituraArquivo();
+
+// var (sucesso, linhasArquivo, _) = arquivo.LerArquivo("Arquivos/arquivoLeitura.txt");
+
+// if (sucesso)
+// {
+//     // Console.WriteLine("Quantidade linhas do arquivo: " + quantidadeLinhas);
+//     foreach (string linha in linhasArquivo)
+//     {
+//         Console.WriteLine(linha);
+//     }
+// }
+// else
+// {
+//     Console.WriteLine("Não foi possível ler o arquivo");
+// }
+
+// TUPLAS
+// (int Id, string Nome, string Sobrenome, decimal Altura) tupla = (1, "Pablo", "Gomes", 1.70M);
+
+// // ValueTuple<int, string, string, decimal> outroExemploTupla = (1, "Pablo", "Gomes", 1.70M);
+// // var outroExemploTuplaCreate = Tuple.Create((1, "Pablo", "Gomes", 1.70M));
+
+// Console.WriteLine($"ID: {tupla.Id}");
+// Console.WriteLine($"Nome: {tupla.Nome}");
+// Console.WriteLine($"Sobrenome: {tupla.Sobrenome}");
+// Console.WriteLine($"Altura: {tupla.Altura}");
+
+// DICTIONARY
+// Dictionary<string, string> estados = new Dictionary<string, string>();
+
+// estados.Add("SP", "São Paulo");
+// estados.Add("BA", "Bahia");
+// estados.Add("MG", "Minas Gerais");
 
 // foreach(var item in estados)
 // {
@@ -37,32 +126,6 @@ Console.WriteLine(estados["MG"]);
 //     Console.WriteLine ($"Valor inexistente: {chave}");
 // }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // PILHA (STACK)
 // Stack<int> pilha = new Stack<int>();
 
@@ -85,18 +148,6 @@ Console.WriteLine(estados["MG"]);
 //     Console.WriteLine(item);
 // }
 
-
-
-
-
-
-
-
-
-
-
-
-
 // FILA (QUEUE)
 // Queue<int> fila = new Queue<int>();
 
@@ -118,32 +169,6 @@ Console.WriteLine(estados["MG"]);
 //     Console.WriteLine(item);
 // }
 //
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 // EXCEÇÕES E COLEÇÕES
 //EXCEÇÕES
@@ -265,34 +290,6 @@ Console.WriteLine(estados["MG"]);
 // cursoDeIngles.AdicionarAluno(p2);
 // cursoDeIngles.ListarAlunos();
 //
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 // Pessoa p1 = new Pessoa();

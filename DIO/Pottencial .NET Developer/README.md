@@ -12,3 +12,4 @@
  - [Propriedades, métodos e construtores](https://docs.google.com/presentation/d/1y4K1Yn3_fBPD2E3qfL1tYFYSmXVewcAu/edit#slide=id.p11)
  - [Manipulando valores](https://docs.google.com/presentation/d/12xgpQrBtxFW28cStLC5WF1IiO4JCiOYK/edit#slide=id.p1)
 - [Exceções e coleções](https://docs.google.com/presentation/d/1VtEhQZAN3WW1zHXm5hWR0O2fZ1Dx6osZ/edit#slide=id.p1)
+- [Tuplas, operador ternário e desconstrução de um objeto](https://docs.google.com/presentation/d/1_lpjdmHuWMflfHTzt6Vl9rD0PbCQr9Mg/edit#slide=id.p1)
