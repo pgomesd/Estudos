@@ -13,3 +13,5 @@ C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\
 C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.pdb
 C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.genruntimeconfig.cache
 C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\ref\Explorando.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\2. Explorando a Linguagem C#\obj\Debug\net6.0\Explorando.csproj.CopyComplete

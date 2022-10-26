@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lAHhybS3u7XCE2WP8yeW1QLeCcHNYwT1Ow9oID9LtHer3MqVKkPKoOnFY+E1ZXQJUM7faLRCP2UVgW5wW6CwKg==",
+  "dgSpecHash": "cLTbQRrLRVxWkUTDmnY2ChhpIz3Hzo+DoF9KiEG3uplsbtE43xzcYhMsXUt5BqtJuK3kPG2UdVGlR4pcEqlz1Q==",
   "success": true,
   "projectFilePath": "C:\\Workspace\\Estudos\\DIO\\Pottencial .NET Developer\\2. Explorando a Linguagem C#\\Explorando.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\paabl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
