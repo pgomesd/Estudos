@@ -15,5 +15,6 @@ namespace Explorando.Models
         
         public decimal Preco { get; set; }
         public DateTime DataVenda { get; set; }
+        public decimal? Desconto { get; set; }
     }
 }

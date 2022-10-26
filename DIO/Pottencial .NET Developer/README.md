@@ -14,3 +14,4 @@
  - [Exceções e coleções](https://docs.google.com/presentation/d/1VtEhQZAN3WW1zHXm5hWR0O2fZ1Dx6osZ/edit#slide=id.p1)
  - [Tuplas, operador ternário e desconstrução de um objeto](https://docs.google.com/presentation/d/1_lpjdmHuWMflfHTzt6Vl9rD0PbCQr9Mg/edit#slide=id.p1)
  - [Nuget, serializar e atributos](https://docs.google.com/presentation/d/1gjfbkY0mOrETMVOCibrkfNWuqML9THSp/edit#slide=id.p1)
+ - [Tipos especiais](https://docs.google.com/presentation/d/1sXxiDTVVccugEa6WVI8kn-m7Vihvaj8G/edit#slide=id.p2)

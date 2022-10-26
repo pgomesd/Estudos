@@ -1,0 +1,7 @@
+No formato JSON, precisamos representar o início e o fim de um objeto, e esse objeto pode conter outros objetos, bem como também pertencer a uma coleção. Representamos o início e fim de um objeto usando o {}.
+Uma maneira de armazenar e compartilhar dados estruturados em formato de texto, de forma leve e com uma determinada sintaxe é o formato JSON.
+Podemos atribuir metadados para as classes e propriedades, passando valores ou alterando seu comportamento. Isso é conhecido como atributos.
+Um gerenciador de pacotes é um repositório onde é possível baixar diversos pacotes desenvolvidos por terceiros. Cada linguagem tem o seu gerenciador de pacotes, e o gerenciador de pacotes do .NET é o Nuget.
+Para instalar um pacote, podemos fazer visualmente ou pela linha de comando no terminal. Pela linha de comando, para instalar um pacote pelo .NET CLI devemos executar o dotnet add package.
+O processo de serialização consiste em transformar objetos em um fluxo de bytes para seu armazenamento ou transmissão.
+Podemos compartilhar nosso código como uma solução ou melhoria em comum com outras pessoas, para que elas usem em seus projetos e se beneficie dessa solução, visando o reaproveitamento de código. Quando fazemos isso, estamos montando um pacote/biblioteca.
