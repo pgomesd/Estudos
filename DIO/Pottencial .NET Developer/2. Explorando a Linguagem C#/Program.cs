@@ -2,44 +2,21 @@
 using System.Globalization;
 using Newtonsoft.Json;
 
+// // ATRIBUINDO TIPO DE VALOR
+// int a = 10;
+// int b = a;
+// b = 60;
 
+// Console.WriteLine($"O valor de A: {a}");
+// Console.WriteLine($"O valor de B: {b}");
 
+// // ATRIBUINDO TIPO DE REFERÊNCIA
+// Pessoa p1 = new Pessoa("Pablo", "Gomes");
+// Pessoa p2 = p1;
+// p2.Nome = "André";
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+// Console.WriteLine($"Nome da pessoa p1: {p1.NomeCompleto}");
+// Console.WriteLine($"Nome da pessoa p2: {p2.NomeCompleto}");
 
 // // MÉTODOS DE EXTENSÃO
 // int numero = 15;
@@ -300,34 +277,6 @@ using Newtonsoft.Json;
 //
 //
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // MANIPULANDO VALORES
 //DATETIME
 // string dataString = "2022-04-170 18:00";
@@ -336,7 +285,6 @@ using Newtonsoft.Json;
 //                       "yyyy-MM-dd HH:mm",
 //                       CultureInfo.InvariantCulture,
 //                       DateTimeStyles.None, out DateTime data);
-
 
 // if (sucesso)
 // {
@@ -371,12 +319,9 @@ using Newtonsoft.Json;
 //
 //
 
-
-
 // PROPRIEDADES, METODOS E CONSTRUTORES
 // Pessoa p1 = new Pessoa(nome: "Pablo", sobrenome: "Gomes");
 // Pessoa p2 = new Pessoa(nome: "Eduardo", sobrenome: "Neves Queiroz");
-
 
 // Curso cursoDeIngles = new Curso();
 // cursoDeIngles.Nome = "Inglês";
@@ -386,7 +331,6 @@ using Newtonsoft.Json;
 // cursoDeIngles.AdicionarAluno(p2);
 // cursoDeIngles.ListarAlunos();
 //
-
 
 // Pessoa p1 = new Pessoa();
 // p1.Nome = "Pablo";
