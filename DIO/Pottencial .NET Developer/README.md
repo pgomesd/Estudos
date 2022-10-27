@@ -16,3 +16,5 @@
  - [Nuget, serializar e atributos](https://docs.google.com/presentation/d/1gjfbkY0mOrETMVOCibrkfNWuqML9THSp/edit#slide=id.p1)
  - [Tipos especiais](https://docs.google.com/presentation/d/1sXxiDTVVccugEa6WVI8kn-m7Vihvaj8G/edit#slide=id.p2)
  - [Stack, Heap e Garbage Collector](https://docs.google.com/presentation/d/1KF5puQxkB3slRFPZK8Aacb9fb5LW27f4/edit#slide=id.p1)
+ ## 3. POO (Programação Orientada a Objetos) com C#
+ - [Introdução, Abstração e Encapsulamento](https://docs.google.com/presentation/d/1yl0OYAC0W66Gwn82i1NuNPC-kBfFXxgl/edit#slide=id.p1)
