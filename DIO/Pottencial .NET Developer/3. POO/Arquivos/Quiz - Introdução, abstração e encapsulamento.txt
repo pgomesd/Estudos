@@ -1,0 +1,4 @@
+Em POO, abstração tem o objetivo de abstrair conceitos do mundo real, considerando seus atributos mais relevantes ao contexto.
+Quais são os quatro pilares da programação orientada a objetos? Abstração, encapsulamento, herança, polimorfismo.
+Em POO, o encapsulamento tem o objetivo de proteger a implementação de uma classe, prevenindo o acesso indevido e expondo somente o necessário.
+O que é um paradigma de programação? É um modelo de técnicas, estruturas e formas de solucionar um problema.

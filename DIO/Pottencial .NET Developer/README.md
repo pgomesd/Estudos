@@ -18,3 +18,4 @@
  - [Stack, Heap e Garbage Collector](https://docs.google.com/presentation/d/1KF5puQxkB3slRFPZK8Aacb9fb5LW27f4/edit#slide=id.p1)
  ## 3. POO (Programação Orientada a Objetos) com C#
  - [Introdução, Abstração e Encapsulamento](https://docs.google.com/presentation/d/1yl0OYAC0W66Gwn82i1NuNPC-kBfFXxgl/edit#slide=id.p1)
+ - [Herança e Polimorfismo](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EfCZuQu6DdBCnBnmS1lIyZoBqZGXoCWCYCYybTwOiIg2mA?rtime=kwNCvOu42kg)
