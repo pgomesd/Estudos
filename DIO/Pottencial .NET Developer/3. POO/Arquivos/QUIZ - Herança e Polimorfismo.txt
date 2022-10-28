@@ -1,0 +1,4 @@
+Em POO, herança tem o objetivo de reutilizar atributos, métodos e comportamento de uma classe em outras classes.
+Em POO, polimorfismo tem o objetivo de sobrescrever os métodos de sua classe derivada, permitindo implementarmos classes especializadas.
+Temos dois tipos de polimorfismo: o polimorfismo em tempo de execução e de compilação. O tipo de polimorfismo que usa herança e sobrescreve um método da classe pai, é conhecido como polimorfismo em tempo de execução.
+Temos dois tipos de polimorfismo: o polimorfismo em tempo de execução e de compilação. O tipo de polimorfismo que NÃO usa herança e usa métodos com o mesmo nome, porém com parâmetros diferentes, é conhecido como polimorfismo em tempo de compilação.

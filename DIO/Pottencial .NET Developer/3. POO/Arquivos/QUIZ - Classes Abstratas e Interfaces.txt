@@ -1,0 +1,4 @@
+Uma interface tem como por objetivo estabelecer uma espécie de contrato, que ao ser usado por uma classe, é necessário a implementação de seus métodos previstos.
+A classe System.Object é a mãe de todas as classes no C#, e ela tem como objetivo prover serviços de baixo n[ivel para suas classes filhas, como métodos de refe^rencias, comparação, finalização e representação de objetos.
+Classe selada é uma classe que não pode possuir classes filhas, ou seja, ninguém pode derivar dela.
+Qual a função de uma classe abstrata? Uma classe que serve apenas como modelo e que não pode ser instanciada.
