@@ -20,3 +20,6 @@
  - [Introdução, Abstração e Encapsulamento](https://docs.google.com/presentation/d/1yl0OYAC0W66Gwn82i1NuNPC-kBfFXxgl/edit#slide=id.p1)
  - [Herança e Polimorfismo](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EfCZuQu6DdBCnBnmS1lIyZoBqZGXoCWCYCYybTwOiIg2mA?rtime=kwNCvOu42kg)
  - [Classes Abstratas e Interfaces](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/Ed8vl0o4huVOgxjze89CAggBoxyB5WRx3ljoabOTkj-y8A?e=OcPTib)
+ ## 4. Bancos de Dados Relacionais - SQL Server
+ - [Introdução Banco de Dados](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/Ebr77iG3xA1Dp3vPXMBdNPgBYXuFKmjSMNDyomo_WbK3JA?e=Cqkoxf)
+ - [SQL, Tabelas e Tipos de Dados](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EWiGdvFXUkVDmay_3FlvPlcBfJUftqtm6Yjv8SP24kQX6A?rtime=6e1oI4a72kg)
