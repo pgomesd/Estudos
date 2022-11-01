@@ -1,0 +1,5 @@
+Uma FUNCTION é uma maneira conveniente de armazenarmos comandos SQL para podemos reaproveitar. No entanto, é necessário retornar sempre um valor.
+Usamos a constraint do tipo UNIQUE quando queremos garantir que a coluna não tenha valores repetidos
+Uma STORED PROCEDURE é uma maneira conveniente de armazenarmos comandos SQL para podemos reaproveitar. No entanto, não somos obrigados a receber parâmetros ou retornar um valor.
+Uma constraint do tipo NOT NULL tem o objetivo de não permitir que a coluna aceite valores nulos.
+A constraint do tipo CHECK é uma restrição que permite realizar uma expressão e garantir que uma coluna atenda aquela condição antes de inserir um registro.
