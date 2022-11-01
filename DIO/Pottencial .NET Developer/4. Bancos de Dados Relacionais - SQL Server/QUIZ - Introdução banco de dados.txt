@@ -1,0 +1,4 @@
+Em um banco de dados relacional, existe um conceito muito importante, conhecido também por armazenar dados estruturados. O nome desse conceito é tabela
+Existem diversos tipos de banco de dados, sendo dois deles amplamente utilizados hoje.  Estamos falando do banco de dados relacional e não relacional.
+Toda aplicação precisa de um lugar para salvar dados, e o principal local para salvar essas informações é o banco de dados. O banco de dados é amplamente utilizado em praticamente todos os sistemas, pois possui a capacidade de gravar e obter dados de maneira fácil, crescer dinâmicamente e atender a diversas requisições dos usuários.
+Existe um software conhecido por permitir acessar e gerenciar um banco de dados de maneira visual, semelhante a uma IDE. Esse software é conhecido como DBMS(Database Management System).

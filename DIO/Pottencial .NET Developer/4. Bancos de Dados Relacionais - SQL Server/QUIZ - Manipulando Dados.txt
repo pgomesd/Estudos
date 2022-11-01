@@ -1,0 +1,8 @@
+Existem funções do próprio banco de dados que são utilizadas para realizar operações mais comuns, como contar, mínima, máxima, média, entre outros. Essas funções são chamadas de built-in functions.
+Uma coluna do tipo data pode ser representada em diversos formatos, como dia, mês e ano. Para formatar uma data no formato dia/mes/ano, utilizamos FORMAT(Coluna, 'dd/MM/yyyy')
+Para transformar o resultado do tipo texto de uma coluna para tudo maiúsculo e tudo mínusculo, podemos usar as funções, respectivamente UPPER e LOWER
+Para obter o valor máximo de uma coluna, como por exemplo, o maior preço ou a maior data, podemos usar a função MAX
+Para agrupar dados, como por exemplo, contar quantos registros se repetem e contar essa repetição, podemos usar uma cláusula do SQL, chamada GROUP BY
+Para realizar uma junção entre duas tabelas que se relacionam por um campo, ou seja, juntando o resultado das duas em um mesmo select, podemos usar o JOIN
+Existe um conceito de chave que faz referência a uma outra tabela do banco de dados, ou seja, podemos ter uma tabela de endereços que possui uma referência para a tabela de clientes. Esse conceito é conhecido como foreign key
+Podemos realizar uma contagem de dados de uma tabela e retornar um número, filtrando uma determinada condição. A função que realiza essa contagem é o COUNT

@@ -23,3 +23,4 @@
  ## 4. Bancos de Dados Relacionais - SQL Server
  - [Introdução Banco de Dados](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/Ebr77iG3xA1Dp3vPXMBdNPgBYXuFKmjSMNDyomo_WbK3JA?e=Cqkoxf)
  - [SQL, Tabelas e Tipos de Dados](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EWiGdvFXUkVDmay_3FlvPlcBfJUftqtm6Yjv8SP24kQX6A?rtime=6e1oI4a72kg)
+ - [Manipulando dados](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EQ6vcUX-YLhCgcfZtr8k7hcB9FpfwPgKTv1XjfGb36ctEA?e=1qE2I3)

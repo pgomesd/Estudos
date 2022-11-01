@@ -1,0 +1,10 @@
+Podemos manipular dados de uma tabela, como inserir, atualizar e remover dados. Esses comandos juntos são conhecidos como DML (Data Manipulation Language)
+Em um banco de dados relacional, podemos representar dados do tipo texto. No C# utilizamos o tipo string, e no banco de dados usamos varchar ou text
+Para selecionar todas as colunas de uma tabela, usamos um caractere especial, que é o *
+Existe um comando no DDL (Data Definition Language) usado para criar uma tabela. Esse comando é conhecido como CREATE TABLE
+Todo banco de dados relacional usa uma linguagem de consulta e manipulação de dados. Essa linguagem tem o nome de SQL
+Existe uma cláusula usada para ordenar os resultados obtidos de sua consulta. Estamos falando do ORDER BY
+Existe um comando no DQL (Data Query Language) usado para obter dados de uma tabela. Esse comando é conhecido como SELECT
+Cada banco de dados possui uma maneira diferente de se conectar, e com o SQL Server não é diferente. Para se conectar a uma instância do SQL Server versão Express, usamos a conexão localhost\sqlexpress
+Ao realizar um UPDATE, temos que ter um certo cuidado, caso contrário podemos alterar dados indevidamente. A não ser que você queira atualizar todos os registros, um UPDATE deve ser sempre acompanhado por um WHERE
+No banco de dados relacional, existe um conceito que tem como objetivo agrupar um contexto, isto é, separar os dados de forma lógica, como por exemplo separar os dados entre diferentes sistemas. Estamos falando de Database.
