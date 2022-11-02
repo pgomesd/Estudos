@@ -1,0 +1,4 @@
+O que a sigla "API" significa? Application Programming Interface
+Qual a principal função de uma API? Disponibilizar métodos (endpoints) e serviços, permitindo a comunicação e integração entre diferentes sistemas.
+Para criar uma API através do .NET CLI, utilizamos o comando: dotnet new webapi
+É muito importante documentarmos a nossa API, principalmente quando ela será disponibilizada na internet para outras pessoas utilizarem. Para documentar a nossa API de uma maneira rápida e prática, podemos utilizar uma especificação, chamada de: Swagger/OpenAPI

@@ -1,0 +1,27 @@
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\appsettings.Development.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\appsettings.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\5. Dominando o Ecossistema .NET.exe
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\5. Dominando o Ecossistema .NET.deps.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\5. Dominando o Ecossistema .NET.runtimeconfig.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\5. Dominando o Ecossistema .NET.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\5. Dominando o Ecossistema .NET.pdb
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.csproj.AssemblyReference.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.AssemblyInfoInputs.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.AssemblyInfo.cs
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.csproj.CoreCompileInputs.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\staticwebassets.build.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\staticwebassets.development.json
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\scopedcss\bundle\5. Dominando o Ecossistema .NET.styles.css
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.csproj.CopyComplete
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\refint\5. Dominando o Ecossistema .NET.dll
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.pdb
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\5. Dominando o Ecossistema .NET.genruntimeconfig.cache
+C:\Workspace\Estudos\DIO\Pottencial .NET Developer\5. Dominando o Ecossistema .NET\obj\Debug\net6.0\ref\5. Dominando o Ecossistema .NET.dll
