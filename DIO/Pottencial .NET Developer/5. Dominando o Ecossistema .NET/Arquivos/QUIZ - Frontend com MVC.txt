@@ -1,0 +1,3 @@
+Para criar um projeto MVC através do .NET CLI, utilizamos o comando: dotnet new mvc
+Para criarmos uma view (página HTML) no MVC, utilizamos um formato de extensão, conhecido como: cshtml
+Existe uma página responsável pelo visual de todo o site, em que todas as páginas se baseiam nela, permitindo termos elementos em comum (como menus, cabeçalhos e rodapés) em todas as páginas. Essa página é conhecida como: _Layout.cshtml
