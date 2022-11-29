@@ -1,0 +1,12 @@
+O que é uma máquina Virtual?
+	As máquinas virtuais são computadores de software com a mesma funcionalidade que os computadores físicos. Assim como os computadores físicos,
+elas executam aplicativos e um sistema operacional.
+
+Qual distribuição do Linux é utilizada neste curso?
+	Ubuntu
+
+O que é o WSL no Windows?
+	É um subsistema no Windows para Linux
+
+Qual o nome dado as instâncias de máquinas virtuais na AWS?
+	EC2
