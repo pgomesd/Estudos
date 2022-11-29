@@ -1,0 +1,12 @@
+Quais dos softwares listados não podem ser classificado como sistema operacional?
+	Gerenciador de Arquivos
+
+Como podemos definir como uma das funções do Kernel de um sistema operacional?
+	Resumidamente o KERNEL é a ponte entre o usuário e o hardwere. O kernerl compõe a parte central do OS e responde por tarefas cruciais do sistema.
+
+Como podemos definir um sistema operacional?
+	O sistema operacional é um software, ou conjunto de softwares, que tem a função de administrar e gerenciar os recursos de um sistema.
+
+Como podemos definir o modelo cliente-servidor?
+	O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço
+designados como servidores, e os requerentes, designados como clientes.
