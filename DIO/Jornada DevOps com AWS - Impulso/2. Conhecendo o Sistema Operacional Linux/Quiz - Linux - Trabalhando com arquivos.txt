@@ -1,0 +1,29 @@
+Qual comando pode ser utilizado para listar todos os arquivos com a terceira letra C do diretório atual?
+	ls ??C*
+
+Qual comando é utilizado para definir uma senha para o usuário root?
+	sudo passwd root
+
+Qual comando é utilizado para exibir o nome do diretório corrente?
+	pwd
+
+Qual comando deve ser utilizado para abrir o diretório cartas partir do diretório documentos localizado na raiz?
+	cd /documentos/cartas
+
+Qual o arquivo de configuração do serviço de acesso remoto (openssh) ?
+	sshd_config
+
+Qual comando pode ser utilizado para listrar os arquivos que estão dentro do diretório root iniciados com a letra A?
+	ls /root/A*
+
+Qual comando é utilizado para voltar ao diretório anterior?
+	cd ..
+
+Qual comando deve ser utilizado para abrir o diretório var a partir do diretório raiz?
+	cd /var
+
+Qual comando pode ser utilizado para exibir o conteúdo do arquivo de texto Aula.txt presente dentro do diretório /Cartas?
+	cat /Cartas/Aula.txt
+
+Qual comando é utilizado para excluir diretórios?
+	rmdir
