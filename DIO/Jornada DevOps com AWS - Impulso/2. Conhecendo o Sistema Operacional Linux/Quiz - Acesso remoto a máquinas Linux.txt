@@ -1,0 +1,11 @@
+Qual software pode ser utilizado para realizar o acesso remoto em um computador com o sistema operacional Linux a partir de um computador com o sistema operacional Windows?
+	Putty
+
+Qual comando pode ser utilizado para realizar o acesso remoto a um servidor Linux com ip 192.168.100.10 com o usuário maria a partir de outro computador com o sistema Linux?
+	ssh maria@192.168.100.10
+
+Qual comando é utilizado para instalar o serviço openssh?
+	sudo apt-get install openssh-server
+
+Qual o nome do serviço no Linux que possibilita o acesso remoto ao servidor através do protocolo ssh?
+	openssh
