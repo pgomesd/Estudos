@@ -1,0 +1,29 @@
+Qual parâmetro deve ser utilizado junto com o comando useradd para que os diretórios do usuário sejam criados dentro do diretório /home?
+	-m
+
+Ao listar o arquivo texto.txt foram apresetadadas as seguintes permissões do arquivo: rwxrwxr-x. Isso quer dizer que o arquivo possui quais permissões?
+	Dono: Leitura, gravação e execução. Grupo: Leitura, gravação e execução. Demais usuários: Leitura e execução
+
+Qual comando é utilizado para definir uma senha para o usuário carlos?
+	passwd carlos
+
+Estando logado como usuário root, qual comando pode ser utilizado para alterar o usuário corrente para maria?
+	su maria
+
+Qual comando pode ser utilizado para criar um usuário com o nome de carlos?
+	useradd carlos
+
+Qual comando pode ser utilizado para adicionar o usuários mariana aos grupos adm e sudo?
+	usermod -G adm,sudo mariana
+
+Qual comando pode ser utilizado para dar permissão de gravação, alteração e execução para o dono, grupo e demais usuários para o arquivo carta.txt?
+	chmod 777 carta.txt
+
+Qual comando pode ser utilizado para remover o usuário e consequentemente excluir o diretório padrão do usuário roberto?
+	userdel -r -f roberto
+
+Qual comando pode ser utilizado para listar todos os usuários criados no sistema?
+	cat /etc/passwd
+
+Qual comando pode ser utilizado para listar os grupos de usuários criados no sistema?
+	cat /etc/group
