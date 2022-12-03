@@ -1,0 +1,14 @@
+Qual comando pode ser utilizado para copiar todos os arquivos e diretórios presentes no diretório /root recursivamente para o diretório /backup
+	cp /root/* /backup -r
+
+Qual comando pode ser utilizado para fechar todos os processos com o nome de chrome?
+	killall chrome
+
+Qual comando pode ser utilizado para copiar todos os arquivos com a extensão DOCX do diretório /Documentos para o diretório /disco2/backup ?
+	cp /Documentos/*.DOCX /disco2/backup
+
+Como renomear um arquivo com o nome de carta.txt para documento.txt ?
+	mv carta.txt documento.txt
+
+bonus:  para mostrar o pin de quem está logado é utilizado o comando who -a
+	para mostrar todos os processos ativos é utilizado o comando ps aux
