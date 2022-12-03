@@ -1,0 +1,14 @@
+Com um compartilhamento com o nome de publica em um servidor linux com o ip 192.168.100.10 qual seria o caminho de rede para acesso a este compartilhamento a partir de um computador com o sistema operacional Windows?
+	\\192.168.100.10
+
+Qual comando pode ser utilizado para realizar a instalação do software de compartilhamento de arquivos?
+	apt install samba -y
+
+Qual o nome do arquivo de configuração do SAMBA para a criação e definição dos compartilhamentos?
+	smb.conf // nano /etc/samba/smb.conf
+
+Qual o nome do software utilizado para compartilhamento de arquivos de servidor Linux para consumo em computadores Windows?
+	SAMBA
+
+bonus:   para reinicar o serviço do samba: systemctl restart smbd
+	 para iniciar o serviço junto com o sistema: systemctl enable smbd
