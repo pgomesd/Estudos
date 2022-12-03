@@ -6,3 +6,4 @@
 - Acesso remoto a máquinas Linux (Putty e SSH)
 - Manipulando Arquivos no Linux
 - Gerenciando Usuários no Linux
+- Gerenciamento de Pacotes Linux
