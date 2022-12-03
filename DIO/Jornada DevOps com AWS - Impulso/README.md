@@ -7,3 +7,4 @@
 - Manipulando Arquivos no Linux
 - Gerenciando Usuários no Linux
 - Gerenciamento de Pacotes Linux
+- [Gerenciamento de Discos Linux](https://docs.google.com/presentation/d/1JQrDl3tq-9NW7F-eba-_wONHSOh7KlwxZVLlW8_SGMY/edit#slide=id.p3)

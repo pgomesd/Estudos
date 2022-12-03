@@ -1,0 +1,11 @@
+Qual comando pode ser utilizado após a atualização dos repositórios com o comando apt upgrade para atualizar o sistema operacional Linux Ubuntu?
+	apt upgrade -y
+
+Qual comando pode ser utilizado para instalar o pacote net-tools na distribuição Ubuntu?
+	apt install net-tools -y
+
+Qual comando poderia ser utilizado para remover um pacote de nome apache2 no sistema operacional Linux Ubuntu?
+	apt remove apache2
+
+Quais comando podem ser utilizados para gerenciamento de pacote nas distribuições Red Hat e Fedora?
+	yum e dnf

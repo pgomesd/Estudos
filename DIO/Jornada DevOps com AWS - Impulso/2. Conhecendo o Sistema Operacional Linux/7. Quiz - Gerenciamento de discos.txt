@@ -1,0 +1,12 @@
+O que é um sistema de arquivos?
+	Sistema de arquivos é um padrão, uma forma como o sistema operacional usa para controlar como os dados são armazenados e recuperados.
+
+O que é um particionamento de disco?
+	De um modo geral, o particionamento é a divisão de um disco em partes. Cada parte ou partição é independente da outra. Cada partição pode ter
+um sistema de arquivos diferente.
+
+Quais são os tipos de sistemas de arquivos mais comuns no Linux?
+	ext3, ext4, xfs
+
+Qual comando pode ser utilizado para montar o disco sdb em um diretório com o nome de /disco2
+	mount /dev/sdb /disco2
