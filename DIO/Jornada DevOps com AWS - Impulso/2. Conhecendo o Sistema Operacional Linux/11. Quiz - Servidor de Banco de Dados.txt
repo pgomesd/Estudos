@@ -1,0 +1,14 @@
+No MySql qual comando é utilizado para listar os banco de dados criados?
+	show databases;
+
+Qual dos nomes a seguir não é um software de gerenciamento de banco de dados?
+	SAMBA
+
+Qual comando pode ser utilizado para a instalação do mysql no Linux Ubuntu?
+	apt install mysql-server-8.0 -y
+
+Qual comando no Mysql pode ser utilizado para criar um banco de dados com o nome de MeuBanco?
+	create database MeuBanco
+
+Qual comando é utilizado para logar no MySql como usuário root?
+	mysql -u root -p

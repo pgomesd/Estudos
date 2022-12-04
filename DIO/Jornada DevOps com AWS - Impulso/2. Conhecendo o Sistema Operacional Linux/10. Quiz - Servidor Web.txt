@@ -1,0 +1,11 @@
+Para a publicação de um site em uma instância na AWS, qual protocolo deve ser liberado no firewall?
+	http
+
+Qual o nome do software que permite a publicação de sites em servidor Linux?
+	apache
+
+Qual comando pode ser utilizado para a instalação do apache?
+	apt install apache2 -y
+
+Qual o diretório padrão para a publicação de um site no Apache?
+	/var/www/html
