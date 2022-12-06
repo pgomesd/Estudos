@@ -1,0 +1,11 @@
+Qual aplicação podemos utilizar para realizar um teste de stress no container?
+	stress
+
+Qual comando é utilzado para atualizar a quantidade de memória em 128 megabytes em um container com o nome de php-A?
+	docker update php-A -m 128M
+
+Qual comando pode ser utilizado para listar todos os containers em execução?
+	docker container ls
+
+Qual comando pode ser utilizado para listar todas as imagens disponíveis em um host?
+	docker image ls
