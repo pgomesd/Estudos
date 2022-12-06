@@ -1,0 +1,11 @@
+Como copiar um arquivo com o nome de arquivo.txt para uma pasta /aula presente em um container com o nome de Ubuntu-A?
+	docker cp arquivo.txt Ubuntu-A:/aula/
+
+Qual comando é utilizado para executar um conteiner com a imagem do ubuntu?
+	docker run ubuntu
+
+Qual comando é utilizado para receber informações detalhadas sobre um container em execução?
+	docker inspect
+
+Qual comando é utilizado para baixar uma imagem do ubuntu?
+	docker pull ubuntu
