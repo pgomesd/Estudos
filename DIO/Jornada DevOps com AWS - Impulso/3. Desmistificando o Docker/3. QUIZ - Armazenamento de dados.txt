@@ -1,0 +1,11 @@
+Qual comando é utilizado para criar um volume com o nome de DIO?
+	docker volume create DIO
+
+Qual parâmetro do comando docker run é utilizado para referenciar as portas utilizadas pelo container?
+	-p
+
+Qual parâmetro do comando docker run é utilizado para indicar o nome do container?
+	--name
+
+Qual comando pode ser utilizado para referenciar um volume com o nome de data para a pasta /var/lib/mysql em um container que será executado com a imagem do mysql?
+	docker run --name mysql-A -d -p 3306:3306 --volume=/data:/var/lib/mysql mysql
