@@ -13,7 +13,8 @@
 - Criando um Servidor Web com Linux
 - Servidor de Banco de Dados com Linux
 ## 3. Desmistificando o Docker
-- [Introdução e Laboratório Virtual](https://academiapme-my.sharepoint.com/:p:/r/personal/kawan_dio_me/_layouts/15/Doc.aspx?sourcedoc=%7BA8A18525-7C1E-471A-92F2-6A1ECD281138%7D&file=Docker%20Fundamentals.pptx&action=edit&mobileredirect=true) / [Instalando o Docker](https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos%2FDocker%2FM%C3%B3dulo%201%2FCurso%2001%2Fc%2E%20Instalando%20o%20DOCKER%2Etxt&parent=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos%2FDocker%2FM%C3%B3dulo%201%2FCurso%2001)
-- [Primeiros passos com o Docker](https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos%2FDocker%2FM%C3%B3dulo%201%2FCurso%2002%2FMaterial%20Complementar)
-- [Armazenamento de Dados](https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos%2FDocker%2FM%C3%B3dulo%201%2FCurso%2003%2FMaterial%20Complementar)
-- [Processamento, Logs e Rede](https://academiapme-my.sharepoint.com/personal/kawan_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fkawan%5Fdio%5Fme%2FDocuments%2FSlides%20dos%20Cursos%2FDocker%2FM%C3%B3dulo%201%2FCurso%2004%2FMaterial%20Complementar)
+- [Introdução e Laboratório Virtual](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/ElY0v-xIc_dNjKR0Lfi3jFkB5tSmEeEdHnEqpyXdcIG1Lw?e=eWp49E) / [Instalando o Docker](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/ElY0v-xIc_dNjKR0Lfi3jFkB5tSmEeEdHnEqpyXdcIG1Lw?e=eWp49E)
+- [Primeiros passos com o Docker](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EvqIp1SoHnFEsyFTP0D1-psBgoihDX6ob6rDtzPYRxUIAw?e=39L1u3)
+- [Armazenamento de Dados](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EsCkkhfmN4hHkln1J35QZMgBjPDIpI8KKWTeXHSh5LWwKQ?e=vRrhL0)
+- [Processamento, Logs e Rede](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EoVcJ4c-fDhFnGksuRqB3w4BPvbZa7ZGCd2RHj2CvL4fGQ?e=QfLldg)
+- [Definição e Criação de um Dockerfile](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EuexxMTLLVVNq9GLNnAfXBMBGuYFqxtojQPUqhEay5TJmw?e=1l9ifV)

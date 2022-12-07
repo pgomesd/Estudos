@@ -1,0 +1,11 @@
+O que é um registry?
+	Registry é o nome dado para um repositório de imagens
+
+Comando utilizado para realizar o upload de imagens para um registry?
+	docker push
+
+Qual comando é utilizado para gerar uma imagem a partir de um docker file?
+	docker image build
+
+Parâmetro do arquivo docker file que indica o diretório padrão da aplicação da imagem?
+	WORKDIR
