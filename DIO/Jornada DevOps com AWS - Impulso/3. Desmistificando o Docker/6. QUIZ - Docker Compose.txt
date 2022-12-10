@@ -1,0 +1,13 @@
+Qual parâmetro em um arquivo YAML é utilizado para definir a rede utilizada na aplicação?
+	networks
+
+Qual a melhor definição para o docker compose?
+	O Docker Compose ajuda a definir e compartilhar aplicativos de vários contêiners. Com o Docker Compose, você pode criar um arquivo para definir
+os serviços presentes em uma aplicação.
+
+Qual parâmetro em um arquivo YAML é utilizado para definir as variáveis de ambiente de uma determinada aplicação?
+	environment
+
+Qual é o tipo do arquivo utilizado para a definição dos serviços de uma aplicação a partir do comando docker compose?
+	yaml
+	

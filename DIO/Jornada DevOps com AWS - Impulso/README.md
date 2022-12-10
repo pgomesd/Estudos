@@ -18,3 +18,4 @@
 - [Armazenamento de Dados](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EsCkkhfmN4hHkln1J35QZMgBjPDIpI8KKWTeXHSh5LWwKQ?e=vRrhL0)
 - [Processamento, Logs e Rede](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EoVcJ4c-fDhFnGksuRqB3w4BPvbZa7ZGCd2RHj2CvL4fGQ?e=QfLldg)
 - [Definição e Criação de um Dockerfile](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EuexxMTLLVVNq9GLNnAfXBMBGuYFqxtojQPUqhEay5TJmw?e=1l9ifV)
+- [Criando um Cluster com o Docker Swarm](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EnmLLuZGNPFNhg3-ndw3KwABEjskZvbfMFtOSIcXHInrwg?e=2qYEGt)

@@ -1,0 +1,11 @@
+Qual comando do Vagrant é utilizado para realizar o acesso remoto a uma máquina virtual?
+	vagrant ssh
+
+Qual comando é utilizado para excluir um serviço no docker swarm com o nome de app?
+	docker service rm app
+
+Qual comando do é Vagrant utilizado para "subir" as máquinas virtuais a partir de um arquivo de configuração chamado Vagrantfile?
+	vagrant up
+
+Qual comando é utilizado para iniciar o Docker Swarm?
+	docker swarm init
