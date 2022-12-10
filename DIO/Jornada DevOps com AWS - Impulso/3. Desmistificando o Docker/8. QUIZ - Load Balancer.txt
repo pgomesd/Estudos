@@ -1,0 +1,11 @@
+Qual comando pode ser utilizado para referenciar um volume com o nome de data para a pasta /var/lib/mysql em um container que será executado com a imagem do mysql?
+	docker run --name mysql-A -d -p 3306:3306 --volume=data:/var/lib/mysql msql
+
+Qual comando pode ser utilizado para listar todas as imagens disponíveis em um host?
+	docker image ls
+
+Qual comando é utilizado para criar um volume com o nome de DIO?
+	docker volume create dio
+
+Como copiar um arquivo com o nome de arquivo.txt para uma pasta /aula presente em um container com o nome de Ubuntu-A?
+	docker cp arquivo.txt Ubuntu-A:/aula/
