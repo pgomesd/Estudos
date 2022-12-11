@@ -1,0 +1,13 @@
+Qual comando é utilizado para iniciar o Minikube?
+	minikube start
+
+O que é o Minikube?
+	Minikube é um utilitário que você pode usar para executar o Kubernetes (k8s) em sua máquina local. Ele cria um cluster de nó único contido em
+uma máquina virtual (VM).
+
+Como podemos definir o kubectl?
+	A ferramenta de linha de comando do Kubernetes, kubectl, permite executar comandos em clusters do Kubernetes. Você pode usar o kubectl para
+implantar aplicativos, inspecionar e gerenciar recursos de cluster e visualizar logs.
+
+No Windows, para que o kubectl esteja disponível em todos os diretórios do sistema, é necessário configurar qual variável do sistema?
+	path

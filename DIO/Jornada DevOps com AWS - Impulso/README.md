@@ -23,3 +23,4 @@
 - [Load Balancer](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EgWsc86S2PRAv6Oa_C-aCCcBwlgIF89LOInMVUyZs46xCA?e=6c760Z)
 ## 4. Kubernetes do Zero à Produção
 - [Kubernetes Overview](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/Ejv4D8JokzJJk0NkPt1FvgcB-dXJTtUslrb1nVTIuMS1sQ?e=dyVZcJ)
+- [Ambiente de Desenvolvimento Kubernetes](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/Ev17wq8SV0pImpJ_IsHWaOsBpqGO2jNLSpsfySUtcBxTeg?e=d6Nr8R)
