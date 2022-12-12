@@ -1,0 +1,11 @@
+O que é o Amazon EKS?
+	É um serviço de contêiner gerenciado para executar e escalar aplicações do Kubernetes na nuvem. Este serviço utiliza a Amazon Web Services (AWS)
+
+Qual a função do servidor de gerenciamento em um cluster Kubernetes?
+	O servidor de gerenciamento, administra os nós de processamento e os Pods no cluster.
+
+O que é o Google Cloud GKE?
+	O Google Kubernetes Engine é uma plataforma para a execução do Kubernetes em nuvem. Este serviço é oferecido pela Google Cloud Platform (GCP)
+
+Qual a função do servidor de processamento Worker em um cluster Kubernetes?
+	O serviço de processamento (Worker) hospeda os Pods que são componentes de uma aplicação.
