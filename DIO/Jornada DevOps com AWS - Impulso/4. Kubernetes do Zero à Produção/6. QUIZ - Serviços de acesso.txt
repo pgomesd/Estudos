@@ -1,0 +1,11 @@
+Qual comando pode ser utilizado no kubernetes para o encaminhamento da porta 3306 no cluster para a porta 3306 em pod com o nome de bd-mysql?
+	kubectl port-forward pod/bd-mysql 3306:3306
+
+Qual comando é utilizado para executar aplicações em um Pod?
+	kubectl exec
+
+Qual tipo de serviço no Kubernetes irá gerar um ip fixo para acesso a um deployment?
+	Load Balancer
+
+Qual tipo de serviço deve ser criado e vinculado a um pod com um banco de dados para realizar uma conexão com este banco via código?
+	service

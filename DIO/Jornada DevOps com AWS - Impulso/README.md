@@ -27,3 +27,4 @@
 - [Cluster Kubernetes em Nuvem](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/Em8CL7fFboVKkuJaT7KWLDUBPXlQxpOlf4TbH4xZS1vdWQ?e=SiuHHX)
 - [Conceitos Básicos Sobre Pods em Kubernetes](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EfpL8VO2BDlCti1_jho29HAByJ4gHZWLArYiYvFNPbcOyA?e=M7Lmks)
 - Criando Imagens Personalizadas com o Docker
+- [Serviços de Acesso para Kubernetes Pods](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EukA_Ocixq9EvREDYfzC4ZYB9Lbe5KxV3sZWLaa1WAvbug?e=UpWDga)
