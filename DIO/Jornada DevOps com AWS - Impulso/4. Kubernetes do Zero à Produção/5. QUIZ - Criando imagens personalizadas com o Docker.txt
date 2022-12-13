@@ -1,0 +1,11 @@
+Qual comando do Docker é utilizado para realizar o upload de uma imagem para o hub padrão a partir de um dockerfile?
+	docker push
+
+Qual comando é utilizado para gerar uma imagem a partir de um docker file?
+	docker build
+
+Parâmetro do arquivo docker file que indica o diretório padrão da aplicação?
+	WORKDIR
+
+Qual arquivo é utilizado pelo docker build para gerar uma imagem personalizada de um container?
+	dockerfile

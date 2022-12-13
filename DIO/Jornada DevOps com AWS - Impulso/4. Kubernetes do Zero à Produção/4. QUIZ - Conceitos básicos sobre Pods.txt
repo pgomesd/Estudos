@@ -1,0 +1,11 @@
+Qual comando pode ser utilizar para o expor um deployment com o nome de app-html no formato de load balancer utilizando a porta 80?
+	kubectl expose deployment app-html --type=LoadBalancer --name app-html --port 80
+
+Qual como é utilizado para excluir um pod com o nome de app-html?
+	kubectl delete pod app-html
+
+Qual comando é utilizando para implementar um pod a partir de um arquivo YAML com o nome de pods.yml?
+	kubectl apply -f pods.yml
+
+Comando utilizar para visualizar os Pods em execução em um cluster Kubernetes?
+	kubectl get pod

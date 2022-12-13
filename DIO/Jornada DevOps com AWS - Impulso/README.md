@@ -25,3 +25,4 @@
 - [Kubernetes Overview](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/Ejv4D8JokzJJk0NkPt1FvgcB-dXJTtUslrb1nVTIuMS1sQ?e=dyVZcJ)
 - [Ambiente de Desenvolvimento Kubernetes](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/Ev17wq8SV0pImpJ_IsHWaOsBpqGO2jNLSpsfySUtcBxTeg?e=d6Nr8R)
 - [Cluster Kubernetes em Nuvem](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/Em8CL7fFboVKkuJaT7KWLDUBPXlQxpOlf4TbH4xZS1vdWQ?e=SiuHHX)
+- [Conceitos Básicos Sobre Pods em Kubernetes](https://academiapme-my.sharepoint.com/:p:/g/personal/kawan_dio_me/EfpL8VO2BDlCti1_jho29HAByJ4gHZWLArYiYvFNPbcOyA?e=M7Lmks)
