@@ -1,0 +1,14 @@
+O que é um persistent volume?
+	PVs são plugins de volume, porém eles têm um ciclo de vida independente de qualquer Pod que utilize um PV. Essa API tem por objetivo mostrar os
+detalhes da implementação do armazenamento, seja ele NFS, iSCSI, ou um armazenamento específico de um provedor de cloud pública.
+
+Em um PVC qual AccessModes permite a leitura e gravação de todos os nodes de um cluster?
+	ReadWriteMany
+
+O que é um persistent volume claim?
+	o PVC é uma requisição para armazenamento por um usuário. Claims podem solicitar ao PV tamanho e modos de acesso específicos. Uma reinvidicação
+de volume persistente (PVC) é a solicitação de armazenamento, que é atendida vinculando a PVC a um volume persistente (PV).
+
+O que é um sistema NFS?
+	O NFS é um serviço que possibilita o compartilhamento de arquivos entre máquinas remotas através de uma rede. Neste sistema usa-se o modelo
+Cliente/Servidor.
