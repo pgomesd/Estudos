@@ -1,0 +1,11 @@
+Qual parâmetro ou flag deve ser juntamente com o comando kubectl apply para que o histórico de deployment possa ser visualizados?
+	--record
+
+Qual comando deve ser utilizado para um deployment com o nome de httpd voltar ao último deployment aplicado?
+	kubectl rollout undo deployment httpd
+
+Qual comando pode ser utilizado para consultar o histórico de deployment com o nome de DIO realizados?
+	kubectl rollout history deployment DIO
+
+Para a utilização de senhas em um pod ou um deployment é aconselhável o uso de um ?
+	Secret
