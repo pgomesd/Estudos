@@ -29,4 +29,4 @@
 - Criando Imagens Personalizadas com o Docker
 - [Serviços de Acesso para Kubernetes Pods](https://academiapme-my.sharepoint.com/:f:/g/personal/kawan_dio_me/EukA_Ocixq9EvREDYfzC4ZYB9Lbe5KxV3sZWLaa1WAvbug?e=UpWDga)
 - [Persistência de Dados em Clusters Kubernetes](https://academiapme-my.sharepoint.com/:t:/g/personal/kawan_dio_me/ESQlpRwYYDpAg0taEuG4vlMBm1A50Y-KAgle0JClx8MWsw?e=7ffKlA)
-- [Deployment e Roolback em Clusters Kubernetes](https://docs.google.com/presentation/d/1ynWdRuwDCjf44LuR7628hdaHyQeRzEDI0BJxjJLU-Yc/edit#slide=id.p1)
+- [Deployment e Rollback em Clusters Kubernetes](https://docs.google.com/presentation/d/1ynWdRuwDCjf44LuR7628hdaHyQeRzEDI0BJxjJLU-Yc/edit#slide=id.p1)
