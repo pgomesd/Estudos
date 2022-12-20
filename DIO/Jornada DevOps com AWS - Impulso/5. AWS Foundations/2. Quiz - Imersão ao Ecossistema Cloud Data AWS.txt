@@ -1,0 +1,11 @@
+Qual destas ferramentas é aplicada para serviço de computação em nuvem?
+	EC2
+
+Qual destes são serviços principais da AWS?
+	Computação e Armazenamento.
+
+Qual a ferramenta aplicada para a configuração, a operação e escalabilidade de um banco de dados?
+	RDS
+
+Qual destas ferramentas é aplicada para serviço de armazenamento web?
+	S3
