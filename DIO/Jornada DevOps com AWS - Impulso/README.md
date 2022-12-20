@@ -31,3 +31,5 @@
 - [Persistência de Dados em Clusters Kubernetes](https://academiapme-my.sharepoint.com/:t:/g/personal/kawan_dio_me/ESQlpRwYYDpAg0taEuG4vlMBm1A50Y-KAgle0JClx8MWsw?e=7ffKlA)
 - [Deployment e Rollback em Clusters Kubernetes](https://docs.google.com/presentation/d/1ynWdRuwDCjf44LuR7628hdaHyQeRzEDI0BJxjJLU-Yc/edit#slide=id.p1)
 - [CI-CD Utilizando Kubernetes](https://docs.google.com/presentation/d/1vxsqwwPDZpivsSvdCCEB4p_a0mIepf0LOpyd6oucRiY/edit#slide=id.gfde3d89708_0_17)
+## 5. AWS Foundations
+- [Primeiros Passos com AWS](https://docs.google.com/presentation/d/1oCqddeEs1zRE-uVzVKJ4ZMfvrrUFPmXd/edit?usp=sharing&ouid=105300330738120646134&rtpof=true&sd=true)

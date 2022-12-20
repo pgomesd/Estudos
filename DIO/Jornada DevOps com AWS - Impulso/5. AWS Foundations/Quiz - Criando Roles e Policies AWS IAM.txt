@@ -1,0 +1,29 @@
+Uma conta de usuário raíz na AWS é:
+	Conta com acesso "master" com controle sobre todos os recursos de uma conta AWS
+
+São datacenters de terceiros onde possuem colocations de servidores AWS
+	Outspots
+
+São servidores específicos para aplicações de ultra-baixa latência
+	Wave Lenght
+
+Permitem especificar permissões para facilitar o gerenciamento das permissões de usuários.
+	IAM User Groups
+
+Um ----------  do IAM é uma entidade criada para representar a pessoa ou aplicação que o utiliza para interagir com os serviços da AWS e consiste de um nome e credenciais.
+	IAM User
+
+Conjunto de permissões que determinam o nível de acesso de uma identidade aos serviços AWS.
+	IAM Roles
+
+Não é uma boa prática de segurança na utilização de contas na AWS
+	Utilizar a conta raíz para tarefas de desenvolvimento
+
+Um IAM Identity:
+	Fornece acesso a recursos de uma conta na AWS
+
+Nível mais baixo da hierarquia, determina se uma identidade pode ou não tomar uma ação sobre um recurso na AWS (Allow/Deny).
+	IAM Permissions
+
+Podem ser do tipo inline ou managed
+	Policies
