@@ -34,3 +34,4 @@
 ## 5. AWS Foundations
 - [Primeiros Passos com AWS](https://docs.google.com/presentation/d/1oCqddeEs1zRE-uVzVKJ4ZMfvrrUFPmXd/edit?usp=sharing&ouid=105300330738120646134&rtpof=true&sd=true)
 - [Imersão ao Ecossistema Cloud Data AWS](https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EZ_5hN150UBKl0g9GU-L8JYBkYq6cOiI0IHppaRB-A0ttw?e=5UvLTd)
+- Introdução Prática a Computação em Nuvem Usando AWS
