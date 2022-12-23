@@ -1,0 +1,36 @@
+Sobre AWS Snow Family, é correto afirmar que:
+	Dispositivos portáteis altamente seguros para coletar e processar dados e migração para dentro e para fora da AWS; Dispositivos off-line para
+ realizar migrações de dados.
+
+Sobre o AWS Elastic MapReduce, podemos afirmar que:
+	Serviço totalmente gerenciado, estrutura gerenciada do Hadoop em instancias EC2, inclui Spark, HBase, Presto, Flink, Colmeia e mais, além de
+vários pontos de integração com AWS.
+
+Sobre o AWS Glue, é correto dizer que:
+	É um serviço de integração de dados serverless que facilita descobrir, preparar e combinar dados para nálise, Machine Learning e desenvolvimento
+da aplicação.
+
+Qual o padrão de implementação de BigData, independentemente da plataforma ou organização?
+	Coletar dados brutos, armazenar de forma segura e escalável, processar e analisar transformando os dados e consumir e visualizar de forma amigável
+e agregando valor.
+
+Sobre o AWS Kinesis, podemos afirmar que:
+	É uma alternativa gerenciada ao Apache Kafka e é ótimo para logs de aplicativos, métricas, IoT, Clicstreams, Big Data "em tempo real" e frame
+works de processamento de streaming.
+
+Quais das opções são recursos do AWS Glue?
+	AWS Glue DataBrews e AWS Glue Elastic Views.
+
+Quais das opções são recursos do AWS Glue?
+	Reduzir os custos dos projetos e ganhar eficiência.
+
+Das situações a seguir, quais são viáveis para o AWS Snow Family:
+	Conectividade limitada, banda limitada, alto custo da rede, banda compartilhada reduz taxa de transferência e conexão instável.
+
+Quais problemas o Big Data resolve, que não podem ser resolvidos pelos bancos de dados tradicionais?
+	Volume de dados (podendo variar de terabytes a petabytes de dados), Variedade dos dados (que variam as origens e os formatos) e Velocidade
+(dados coletados, armazenados, processados e analisados em curtos períodos de tempo).
+
+O que pode causar problemas ao lidar com os desafios de Big Data?
+	Escalada de custos e redução de produtividade e competitividade.
+	 
