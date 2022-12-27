@@ -1,0 +1,24 @@
+Where does program execution begin with a C# program?
+	Program execution begins inside the "Main" method.
+
+What C# data type is represented by the following number 10.0m?
+	A decimal number, or literal, has an "m" as a suffix after the last digit.
+
+What is the correct way to declare a string array and assign it some initial values?
+	string[] strs = {"one", "two", "three"};
+
+The following code is shorthand for what statement? a += b
+	a = a + b
+
+Which operator will return true as a result only if both the left- and right-hand operands are true?
+	"&&" is the Boolean "AND" operator. To return a true result, all operands must evaluate to "TRUE".
+
+If you want to write a single-line comment, what symbol must you include before the comment begins?
+	//
+
+
+
+
+
+
+

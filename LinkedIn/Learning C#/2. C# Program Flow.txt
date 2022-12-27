@@ -1,0 +1,25 @@
+Which scenario would a while loop best handle?
+	A "while" loop executes indefinitely until the stopping condition is met. A stopping condition can be an end user typing a sentinel value.
+
+You are writing a search program using a loop. How can you terminate the loop after the searched value is found?
+	Write an if statement to check whether the value is found. If the value is found, execute a break statement.
+
+You are using C# exception handling. Which code block will always run, and is also the ideal location to add to code in order to clean up or dispose of resources?
+	The "finally" code block always runs regardless of whether an exception has been thrown or not. It is an ideal place to clean up resources.
+
+Galip needs to write an exception for when a user submits a number outside a given set of values. Which exception is appropriate for him to use?
+	ArgumentOutofRangeException; If a value falls outside the desired range, this exception can be used to alert the user.
+
+How many if-else conditionals are considered the limit to be practical?
+	A practical limit is four or five conditionals in order to keep the code easy to read and maintain.
+
+If you are expecting values of 52, 53, and 54, how can you group these cases together as one case to cover all three values?
+	case 52:
+	case 53:
+	case 54:
+     		Console.WriteLine("theVal is between 52 and 54");
+
+Which code snippet will write output to the console exactly 10 times?
+	for (int j = 0; j < 10; j++) {
+     		Console.WriteLine("Printing a line to the console.");
+	}
