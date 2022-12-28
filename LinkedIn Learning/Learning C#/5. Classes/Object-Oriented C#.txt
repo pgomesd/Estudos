@@ -1,0 +1,20 @@
+Which access modifier allows members and methods to be accessed only by the class itself?
+	private. A "private" member or method can only be accessed by the class where it is defined.
+
+Which syntax is an "expression-bodied" property?
+	public string Name { 
+	get => _name;
+	set => _name = value; }
+Using the "=>" symbol as shorthand, this is the syntax to create an "expression-bodied" property.
+
+What is the correct syntax to declare Book as a subclass of Publication?
+	class Book : Publication { <..> }
+
+What happens when you create a custom class and try to output it to the console without creating a ToString() method?
+	The compiler uses the default implementation of the ToString() method, which prints the namespace and class name.
+
+When you define a class and then use the new keyword, what entity are you creating?
+	When you use the "new" keyword, you are creating an object instance of a class.
+
+If you create an object instance from a class, what do you use to access the object's fields?
+	dot syntax.
