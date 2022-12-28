@@ -1,0 +1,16 @@
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\bin\Debug\net5.0\ForLoops.exe
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\bin\Debug\net5.0\ForLoops.deps.json
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.json
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\bin\Debug\net5.0\ForLoops.runtimeconfig.dev.json
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\bin\Debug\net5.0\ForLoops.dll
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\bin\Debug\net5.0\ForLoops.pdb
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.csproj.AssemblyReference.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfoInputs.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.AssemblyInfo.cs
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.dll
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\refint\ForLoops.dll
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.pdb
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ForLoops.genruntimeconfig.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\ForLoops\obj\Debug\net5.0\ref\ForLoops.dll

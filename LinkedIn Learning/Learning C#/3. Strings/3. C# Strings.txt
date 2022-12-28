@@ -1,0 +1,20 @@
+MyString is a string variable that has a length of 15. What data type is represented by the following code?
+MyString[10]
+	char. Accessing a single element inside a "string" returns a "char" data type.
+
+What string formatting should you implement to output a value using the local currency format with a precision of 3?
+	{0:C3}
+
+How do you convert the following code into an interpolated string?
+Console.WriteLine("This car is a {0} {1} {2}.", year, make, model);
+	Console.WriteLine($"This car is a {year} {make} {model}.");
+
+Why can manipulating string objects be problematic?
+	They are immutable, and the string is copied repeatedly when an operation is done on it, which adversely affects a computer's resources.
+The StringBuilder class allows string manipulation while demanding less of a computer's resources.
+
+Clementia needs to parse string objects with exception handling. Which statement should she include in her code?
+	TryParse. "TryParse" can parse strings and also provide exception handling at the same time.
+
+
+

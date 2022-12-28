@@ -1,0 +1,16 @@
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.exe
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.deps.json
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.json
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.runtimeconfig.dev.json
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.dll
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\bin\Debug\net5.0\Exceptions.pdb
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.csproj.AssemblyReference.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfoInputs.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.AssemblyInfo.cs
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.csproj.CoreCompileInputs.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.dll
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\refint\Exceptions.dll
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.pdb
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\Exceptions.genruntimeconfig.cache
+C:\Workspace\Estudos\LinkedIn Learning\Learning C#\Exercise Files\Start\Program Flow\Exceptions\obj\Debug\net5.0\ref\Exceptions.dll
