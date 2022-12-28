@@ -1,0 +1,21 @@
+Which component is optional when defining a function?
+	parameters. You can choose to define a function with or without parameters.
+
+
+How can you assign a default value to a function parameter?
+	Assigning a value to the parameter when the function is declared will make that the default value.
+
+
+How would you modify the following function call to use named parameters?
+PrintWithPrefix("Hello There", "% ");
+	PrintWithPrefix(thestr: "Hello There", prefix: "% ");
+
+A parameter val1 is passed by reference with a value of 0. Inside the function body, val1 is assigned a value of 5. What is the value of val1 when execution returns back from the function call?
+	5. Since the parameter is passed by reference, the changes that happen inside the function body are retained.
+
+How do you specify a parameter to be an output parameter?
+	Prefixing the keyword "out" before the parameter in the parameter list will change it to be used as output.
+
+Michael needs to return two integer values from a function call. How can he do this with a single variable?
+	Define a function with a tuple (int, int) return type.
+
