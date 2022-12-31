@@ -1,0 +1,21 @@
+Qual destas é uma saída possível deste código?
+
+import random
+
+números = [1, 2, 3, 4, 5]
+
+print(random.choice(numeros))
+	2
+
+Como se chama um arquivo que consiste em código Python que pode definir funções, classes, variáveis e muito mais?
+	Módulo
+
+Usando a definição de classe abaixo, como você criaria uma instância da classe em Python?
+classe Filhote:
+    def __init__(self, nome, brinquedo_favorito):
+        self.name = nome
+        self.brinquedo_favorito = brinquedo_favorito
+lola = Filhote('Lola', 'urso de pelúcia')
+
+Qual estilo de programação envolve o uso de código para representar coisas e situações do mundo real?
+	Orientada a objetos

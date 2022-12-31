@@ -1,0 +1,22 @@
+Qual definição de variável é inválida em Python?
+	if = Verdadeiro
+
+Em qual linguagem de programação este código está escrito?
+public class Hello {
+    
+    public static void main(String[] args) {
+        System.out.println(“Olá mundo!”);
+    }
+}
+	Java
+
+Qual linguagem de programação não é adequada para o desenvolvimento de aplicativos para dispositivos móveis?
+	Powershell
+
+Qual é a saída do código Python a seguir?
+if 5 < 6:
+   print("sim")
+
+print("não")
+	sim
+	não

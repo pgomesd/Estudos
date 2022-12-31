@@ -1,0 +1,18 @@
+Qual opção representa um comentário em Python?
+	# Meu comentário
+
+Qual é a saída do código Python a seguir?
+print("Olá!")
+
+print(39)
+	Olá!
+	39
+
+O Python é normalmente usado para criar quais tipos de aplicativos?
+	Web, análise científica, jogos
+
+Qual opção chama uma função chamada oi?
+	oi()
+
+A maneira mais comum de um computador tomar decisões com base em uma condição é usando uma instrução _____.
+	if

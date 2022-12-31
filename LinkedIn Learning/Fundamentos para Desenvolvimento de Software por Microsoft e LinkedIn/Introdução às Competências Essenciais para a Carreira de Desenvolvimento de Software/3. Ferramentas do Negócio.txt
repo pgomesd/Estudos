@@ -1,0 +1,23 @@
+Ao lidar com um bug particularmente desafiador, o que você deve evitar?
+	Desistir.
+
+Quando você se depara com erros que não entende, qual destes sites você pode acessar para obter respostas?
+	stackoverflow.com
+
+Qual recurso do VSCode permite você obter sugestões de código durante a digitação?
+	IntelliSense.
+
+Quais são alguns usos de uma biblioteca de software?
+	Editar imagens, ler um arquivo.
+
+Qual das seguintes é uma biblioteca usada para fazer solicitações de rede?
+	Ktor.
+
+Qual destes não é um serviço de hospedagem de repositório?
+	Jira.
+
+Se você cometer um erro ao programar, o que pode ajudá-lo a recuperar suas alterações anteriores?
+	Um sistema de controle de versão.
+
+O/A _____ do Git permite que você tenha várias ramificações locais que podem ser totalmente independentes umas das outras.
+	modelo de ramificação.

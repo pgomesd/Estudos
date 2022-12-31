@@ -1,0 +1,14 @@
+Qual é o termo para uma variável cujo valor não muda?
+	Constante.
+
+Qual destas é uma maneira de converter o código legível por humanos em código de máquina?
+	Compilar.
+
+Por que os aplicativos de processamento de texto não são adequados para escrever código-fonte?
+	Eles inserem bits de informação em arquivos que os impedem de serem texto simples.
+
+O uso de ponto e vírgula na linguagem de programação JavaScript é um exemplo de sua _____.
+	sintaxe.
+
+Qual linguagem os computadores entendem?
+	Linguagem de máquina.

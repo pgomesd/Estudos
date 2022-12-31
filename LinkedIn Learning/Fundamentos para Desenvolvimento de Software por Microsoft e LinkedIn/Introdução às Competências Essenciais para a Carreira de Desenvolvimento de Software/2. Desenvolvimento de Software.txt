@@ -1,0 +1,29 @@
+Qual destes não é um tipo de software?
+	Processador.
+
+Qual é o nome de um arquivo ou programa que os computadores podem executar?
+	Um executável.
+
+_____ de software é o processo de entrega do software aos usuários pretendidos.
+	Implantação.
+
+Por que o software de colaboração online é vital para projetos de software?
+	Porque os requisitos precisam ser documentados e os sistemas precisam ser representados visualmente. Isso geralmente é um esforço conjunto entre os membros da equipe.
+
+Qual ferramenta é a melhor para debater ideias, visualizar componentes do projeto e discutir um problema com outras pessoas?
+	Um quadro branco.
+
+Na equipe de desenvolvimento de software, quem é responsável pelo orçamento do projeto, direção e seu sucesso final?
+	Stakeholder da empresa.
+
+Quais funções na equipe de desenvolvimento de software trabalham em conjunto para definir as necessidades do usuário e definir o roteiro do produto?
+	Gerente de produto e stakeholder da empresa.
+
+Em qual fase do Ciclo de Desenvolvimento do Software os membros da equipe começam a se concentrar em seus requisitos, identificam quaisquer riscos para o sucesso do projeto e documentam as metas de alto nível?
+	Análise
+
+Qual fase do Ciclo de Vida de Desenvolvimento de Software inclui a realização de entrevistas, workshops e pesquisa de concorrentes para direcionar o projeto?
+	Levantamento de requisitos
+
+O software de programação ajuda os programadores a escrever, testar e _____ seu código para uso.
+	empacotar

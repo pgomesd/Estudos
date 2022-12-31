@@ -1,0 +1,20 @@
+Além de escrever novos programas, o que mais os programadores fazem frequentemente?
+	Eles trabalham para garantir a integridade e a confiabilidade dos programas existentes.
+
+Como você pode investigar o que está em alta no setor com o mínimo de esforço?
+	Assinando newsletters técnicas.
+
+Quais são os maiores desafios da programação?
+	Fornecer estimativas, criar nomenclatura, trabalhar com código legado.
+
+Por que a estimativa de software é frequentemente chamada de “arte”?
+	O trabalho dos programadores é complexo e muitas vezes há várias incógnitas. Portanto, um programador precisa levar vários fatores em consideração ao fornecer uma estimativa.
+
+Com suas tarefas definidas para a semana, o programador pode começar a _____.
+	pesquisar os recursos disponíveis.
+
+Qual é o processo de encontrar e remover erros em seu código?
+	Depuração.
+
+_____ abrange os programas e instruções de operação usados por qualquer dispositivo de computação.
+	Software.
