@@ -1,0 +1,10 @@
+Usamos o JavaScript neste curso pois ele é simples, não necessita ser compilado, e é fácil de entender.
+
+Uma vez que altero e salvo o meu JavaScript, o que preciso fazer para ver os resultados?
+	Recarregar a página web no browser.
+
+Qual é o arquivo que utilizaremos para colocar o nosso código fonte neste curso?
+	script.js
+
+Todo programa de computador é baseado em _____ ?
+	Todo programa de computador trabalha com entradas e saídas - mas lembre-se - garbage in, garbage out. Se entra lixo, sai lixo!

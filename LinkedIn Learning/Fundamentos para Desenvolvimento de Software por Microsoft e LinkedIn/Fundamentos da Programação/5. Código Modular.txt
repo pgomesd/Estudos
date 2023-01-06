@@ -1,0 +1,20 @@
+A ordem na qual os arquivos de script são referenciados é importante.
+	VERDADEIRO
+
+Qual o valor de uma variável que você recebe quando tenta acessá-la de fora do seu escopo? 
+	undefined
+
+Blocos de código são rodeados dos símbolos _____.
+	{}
+
+Como chamar uma função com o nome "leiaInputUsuario"
+	leiaInputUsuario()
+
+Aonde geralmente encontramos um "return" no código?
+	Na última linha de uma função.
+
+Em JavaScript, o escopo de variável é importante...
+	quando definimos variáveis para serem usadas dentro de funções.
+
+As declarações escritas nas linhas abaixo de um "return" são executadas e retornadas como um valor.
+	FALSO

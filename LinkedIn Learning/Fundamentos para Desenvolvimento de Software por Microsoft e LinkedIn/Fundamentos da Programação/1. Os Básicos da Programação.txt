@@ -1,0 +1,19 @@
+Código interpretado tem as seguintes desvantagens, qualquer pessoa que tiver o interpretador consegue rodar o código, o código fonte é público, o código pode rodar mais lentamente pois ele tem de ser interpretado cada vez que ele roda. O fato do código fonte precisar ser interpretado separadamente para cada tipo de CPU, não é uma desvantagem, mas sim o que possibilita ele rodar em diferentes máquinas.
+
+Verificação de _____ te informa se algo esta errado no seu código enquanto você digita.
+	sintaxe.
+
+O JavaScript...
+	é uma linguagem interpretada.
+
+Todos os computadores utilizam o _____.
+	código de máquina.
+
+O que é verdadeiro sobre as linguagens de programação de alto nível?
+	Você se preocupa menos com o hardware e o código fonte é mais legível
+
+O código fonte de todas as linguagens de programação é escrito usando _____.
+	texto simples.
+
+Quanto mais próximo uma linguagem de programação for do código de máquina, mais é difícil de escrever.
+	VERDADEIRO

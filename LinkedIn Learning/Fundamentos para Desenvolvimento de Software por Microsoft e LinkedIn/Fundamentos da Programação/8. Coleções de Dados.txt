@@ -1,0 +1,14 @@
+Um objeto imutável não pode ser alterado depois de criado. 
+	VERDADEIRO
+
+Em um loop FOR, qual propriedade de um array precisamos usar?
+	length
+
+Um _____ é uma função que pertence a um objeto.
+	método
+
+O que será exibido no alerta após a execução do seguinte código: var meuVetor = [176, "Interesting", TRUE, 'hello, world']; alert(test.length);
+	4
+
+Como faço para declarar um vetor vazio?
+	var meuVetor = [];

@@ -8,7 +8,6 @@ namespace ProgChallengeStart
         {
             // Choose a random number between 0 and 20
             int theNumber = new Random().Next(20);
-
             // Print the game greeting and instructions
             Console.WriteLine("Let's Play 'Guess the Number'!");
             Console.WriteLine("I'm thinking of a number between 0 and 20.");
@@ -29,24 +28,23 @@ namespace ProgChallengeStart
                 if (!result) {
                     Console.WriteLine("Thats not a number. Try again.");
                 }
-                else {
-                    if (number == -1) {
-                        Console.WriteLine($"Thanks for playing. The number was {theNumber}");
-                        game = false;
-                    }
-                    else {
-                        count++;
-                        if (number == theNumber){
+                switch (number)
+                    {
+                        case var value when value == theNumber:
+                            count++;
                             Console.WriteLine($"YOU WIN! Needed {count} guesses.");
-                                game = false;
-
-                        }
-                        else {
+                            game = false;
+                            break;                            
+                        case -1:
+                            Console.WriteLine($"Thanks for playing. The number was {theNumber}");
+                            game = false;
+                            break;
+                        default:
+                            count++;
                             Console.WriteLine("{0} than that.", number < theNumber ? "higher" : "lower");
-                        }
+                            break;
                     }
-                }
-            } while (game);
+                } while (game);
+            } 
         }
     }
-}

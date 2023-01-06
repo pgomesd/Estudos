@@ -1,0 +1,5 @@
+Qual é a declaração de variável menos desejada?
+	var $X_24Z. Sempre de nomes significativos para suas variáveis.
+
+A maneira mais utilizada de se nomear variáveis e funções no JavaScript é usar o
+	camelCase

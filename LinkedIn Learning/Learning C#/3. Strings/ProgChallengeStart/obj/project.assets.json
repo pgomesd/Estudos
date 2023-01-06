@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Estudos\\LinkedIn Learning\\Learning C#\\Exercise Files\\Start\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
+      "projectUniqueName": "C:\\Workspace\\Estudos\\LinkedIn Learning\\Learning C#\\3. Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
       "projectName": "ProgChallengeStart",
-      "projectPath": "C:\\Workspace\\Estudos\\LinkedIn Learning\\Learning C#\\Exercise Files\\Start\\Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
+      "projectPath": "C:\\Workspace\\Estudos\\LinkedIn Learning\\Learning C#\\3. Strings\\ProgChallengeStart\\ProgChallengeStart.csproj",
       "packagesPath": "C:\\Users\\paabl\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Estudos\\LinkedIn Learning\\Learning C#\\Exercise Files\\Start\\Strings\\ProgChallengeStart\\obj\\",
+      "outputPath": "C:\\Workspace\\Estudos\\LinkedIn Learning\\Learning C#\\3. Strings\\ProgChallengeStart\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\paabl\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,11 @@
+C++, Java, C# e Swift são linguagens orientadas a objetos
+	VERDADEIRO
+
+Qual desses não é um objeto?
+	var numero = 10; Números são considerados primitivos e não objetos.
+
+Qual estrutura de dados pode conter tanto informações quanto funções? Programadores podem também criar relacionamentos entre essas estruturas. 
+	object
+
+Qual estrutura de dados pode conter tanto informações quanto funções? Programadores podem também criar relacionamentos entre essas estruturas. 
+	C

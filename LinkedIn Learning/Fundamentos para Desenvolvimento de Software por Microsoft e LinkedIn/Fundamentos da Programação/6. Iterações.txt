@@ -1,0 +1,5 @@
+O que que a terceira sessão de um loop FOR faz?
+	Incrementa o índice
+
+O que será exibido no alerta após a execução do seguinte código: var x = 45; while (x > 2) { x--; } alert(x);
+	2

@@ -1,0 +1,5 @@
+Você pode usar o _____ para escrever mensagens enquanto você 'debuga' o seu código.
+	alert
+
+Qual desses não contem um erro de sintaxe?
+	var x = 100/0;

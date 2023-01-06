@@ -1,0 +1,20 @@
+Qual dessas não é uma característica do C?
+	orientada a objetos
+
+O Java usa _____ para organizar as suas classes.
+	packages
+
+Como fazemos um comentário no Ruby?
+	#
+
+Qual dessas linguagens de programação é completamente orientada a objetos, interpretada, e fácil de aprender?
+	Ruby
+
+Python é multiplataforma
+	VERDADEIRO
+
+Parecido com o Ruby, o _____ também é orientado a objetos, interpretado e é usado frequentemente para criar aplicativos web.
+	Python
+
+Qual dessas linguagens de programação influenciou todas as outras e não é orientada a objetos? 
+	C

@@ -1,0 +1,8 @@
+O _____ não usa o garbage collection para gerenciar a sua memória.
+	Assembly Language
+
+Na programação, geralmente existe somente uma maneira perfeita, um algoritmo, de fazer uma tarefa.
+	FALSO
+
+Qual desses não é um exemplo de um algoritmo?
+	Program

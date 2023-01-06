@@ -1,0 +1,26 @@
+O que é verdadeiro sobre as linguagens de programação fortemente tipadas?
+	Existem diferentes tipos de variáveis para diferentes tipos de dados.
+
+Usamos o símbolo _____ para indicar o final de uma declaração.
+	;
+
+Qual linha de código em JavaScript coloca o número 5 na variável "temp"?
+	var temp = 5;
+
+O JavaScript é uma linguagem fortemente tipada.
+	FALSO
+
+Qual linha de código em JavaScript tem uma declaração incorreta de um string?
+	''Isso é um teste"
+
+Qual linha de código em JavaScript representa um string, ou uma sequência de caracteres corretamente?
+	"olá mundo"
+
+O operador de atribuição em JavaScritpt é o _____ .
+	=
+
+Qual linha de código em JavaScript declara uma variável para armazenar o número de alunos em uma classe?
+	var numeroAlunos
+
+Para demarcar uma linha única como comentário no JavaScript, usamos o _____ .
+	//

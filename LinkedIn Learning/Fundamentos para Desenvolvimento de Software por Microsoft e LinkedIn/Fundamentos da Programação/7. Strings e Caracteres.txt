@@ -1,0 +1,6 @@
+O que será exibido no alerta após a execução do seguinte código: var x = 5; var y = '100'; alert(x+y);
+	5100
+
+O que será exibido no alerta após a execução do seguinte código: var texto = "Learning JavaScript is interesting"; alert(texto.indexOf("in"));
+	5
+

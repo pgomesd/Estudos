@@ -1,0 +1,11 @@
+Em JavaScript, você pode colocar um IF dentro de outro IF.
+	VERDADEIRO
+
+Para fazer uma comparação de estrita igualdade, usamos o _____.
+	===
+
+Qual linha de código testa se "pontos" é igual a 100?
+	if (pontos == 100) {}
+
+Qual linha de código em JavaScript está correta?
+	if (a == b) { alert("verdade"); }

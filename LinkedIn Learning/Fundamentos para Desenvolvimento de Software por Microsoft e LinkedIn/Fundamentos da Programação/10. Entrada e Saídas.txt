@@ -1,0 +1,5 @@
+Escrever código que reage ao usuário é chamado de programação _____ .
+	orientada a eventos
+
+Qual evento é chamado quando você digita o seu nome e clica fora da caixa de texto?
+	onblur
