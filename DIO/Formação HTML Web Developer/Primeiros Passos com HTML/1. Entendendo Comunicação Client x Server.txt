@@ -1,0 +1,29 @@
+O que foram MARK I, Colossus e ENIAC?
+	São alguns dos primeiros computadores que surgiram no passado.
+
+FTP é um exemplo de tipo de...
+	Server (Servidor).
+
+Um navegador web (ou Browser) é executado do lado...
+	Client (Cliente).
+
+O que significa a sigla HTML?
+	Hypertext Markup Language
+
+O que significa Upload?
+	Envio de arquivos para o servidor.
+
+São exemplos de linguagem de programação server-side
+	C#, Javascript (Nodejs) e JAVA.
+
+Quando acessamos um site com login e senha, é comum o sistema buscar em um banco de dados as credenciais do usuário. O banco de dados nestes casos, geralmente fica do lado...
+	do servidor. A aplicação se conecta em um banco de dados para buscar as credenciais.
+
+Google Chrome, Microsoft Edge, Mozila Firefox, Safari... são exemplos de:
+	Navegadores (ou Browsers).
+
+O que é o V8?
+	Interpretador Javascript utilizada por navegadores e também pelo NodeJS.
+
+O que significa a sigla FTP?
+	File Transfer Protocol
