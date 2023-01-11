@@ -1,0 +1,29 @@
+O que faz a tag <body>?
+	Ela define o corpo da página HTML, o que aparece para o usuário.
+
+Exemplos de atributos básicos de tags
+	id, style, name, class.
+
+O que faz o atributo target="_blank" na tag de link?
+	Abre o link em outra aba no navegador.
+
+O que faz a tag <p>?
+	Inicia e termina um parágrafo no texto.
+
+Estrutura correta de uma lista não-ordenada
+	<ul><li></li></ul>
+
+Para que serve a tag <a>?
+	Colocar um hyperlink em nossa página.
+
+São exemplos de tags geralmente aplicadas em Textos
+	<h1>,<p>,<b>,<h4>
+
+O que são tags no HTML?
+	São comandos utilizados para informar o navegador a estrutura do site.
+
+Estrutura correta de uma lista ordenada
+	<ol><li></li></ol>
+
+O que faz a tag <title>?
+	Localizada dentro de <head>, ela muda o texto que aparece na janela (ou aba) do navegador.
