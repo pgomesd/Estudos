@@ -1,0 +1,30 @@
+O que faz o atributo action de um formulário html?
+	Define o caminho de onde as informações do formulário serão enviadas.
+
+O que é a tag <input type="range">?
+	Cria um controle interativo que aumenta e diminui na horizontal um valor numérico.
+
+É característica do Checkbox:
+	Permite selecionar mais de um valor para um mesmo campo.
+
+O que faz o <button type="reset">?
+	Limpa os campos do formulário.
+
+Diferença entre <input type="button" /> e <button>
+	A tag button carrega mais semântica, ou seja, olhando para o HTML eu sei que ele é um botão.
+
+O que o atributo multiple faz na tag <select>?
+	Permite selecionar múltiplos itens da lista pré-definida.
+
+Qual a diferença entre o method GET e POST?
+	GET = envia as informações na url e POST = envia os formulários com dados embutidos.
+
+É característica do RadioButton
+	Permite selecionar apenas um valor para um campo específico.
+
+O evento onSubmit do formulário é mais utilizado para...
+	Validar o formulário antes do envio ao servidor.
+
+O que é a tag 
+<input type=""number"" min=0 max=100 step=10 />
+	Renderiza um campo numérico, que aceita no mínimo 0, e no máximo 100. Clicando nas setinhas, aumenta ou diminui de 10 em 10.
