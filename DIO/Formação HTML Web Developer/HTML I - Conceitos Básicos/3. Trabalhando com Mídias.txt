@@ -1,0 +1,29 @@
+O que o atributo default faz na tag <track>?
+	Permite definir qual legenda é a padrão ao carregar a página.
+
+O que são Gifs?
+	Imagens interpoladas realizando animação.
+
+São arquivos vetoriais que permitem aumentar e diminuir seu tamanho sem perder a resolução.
+	svg
+
+Qual extensão de imagem baseadas em pixels permite transparências?
+	png
+
+O que faz o atributo controls, nas tags <video> e <audio>?
+	Permite que o navegador renderize controles básicos para manipular a mídia.
+
+Para que serve a tag <track>?
+	Adiciona legendas ao seu vídeo.
+
+O que acontece com a imagem se apenas atribuir uma largura (width) na tag <img>?
+	O navegador redimensionará proporcionalmente a imagem, evitando que ela distorça.
+
+Por que usar <video> ou <audio> ao invés de <embed> ?
+	Embed não tem um peso semântico, já as tags video e audio, só de olhar, já sabemos que se trade de áudio e/ou vídeo.
+
+O que é multimídia?
+	É tudo relacionado a som e imagem.
+
+O que faz o align na tag <img>?
+	Alinha a imagem dentro de um texto.
