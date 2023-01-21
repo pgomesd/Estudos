@@ -1,0 +1,29 @@
+O que faz a tag <iframe>?
+	Permite inserir conteúdos externos (web ou do projeto) dentro de sua página html.
+
+Qual o display padrão da tag <div>?
+	display: block;
+
+O que faz o <fieldset>?
+	É uma forma de agrupos campos de formulário, deixando-os mais visimelmente melhores.
+
+O que o atributo face faz na tag <font>?
+	Altera a fonte do texto.
+
+Que cor é #00FF00?
+	Verde.
+
+O que faz a tag <mark>?
+	Aplica um destaque ao texto, semelhante a um marca textos.
+
+O que faz a tag <blockquote>?
+	Define uma citação longa dentro do texto.
+
+O que faz a tag <u>?
+	Coloca um underline no texto.
+
+Que cor é rgba(255, 0, 0, 0.5)?
+	Vermelho com transparência 50%.
+
+Qual a diferença entre <strong> e <b>?
+	Apesar de aparentarem ser a mesma coisa, <strong> tem mais semântica do que o <b>.

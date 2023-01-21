@@ -4,3 +4,4 @@
 - [Introdução ao HTML na Prática](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EUBD7085ULpApq4i1_8fWfMBhVJQMyxt2K_d1sJOhRUN_w?e=vk37t3)
 ## HTML I: Conceitos Básicos
 - [Trabalhando com Formulários](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EeLIh1dL9AhAqqqmQ06sK6sBCdBn6LuXIB7d-YwFeGZylQ?e=SsHVnu)
+- [Estruturando seu HTML + Formatações](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EcClRvAldKJBu2rCDB4BTVIBcuVNvt_Ea-cGxD5UDhxGww?rtime=uXAz2-H72kg)
