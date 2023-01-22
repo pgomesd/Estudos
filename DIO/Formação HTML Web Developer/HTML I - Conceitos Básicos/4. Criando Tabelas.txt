@@ -1,0 +1,29 @@
+Para que servem tabelas?
+	Para estruturar dados e mostrá-los de forma tabular. Em linhas e colunas.
+
+O que faz a tag <tbody>?
+	Define as linhas que irão compor o corpo da tabela.
+
+O que faz a tag <tfoot>?
+	Define as linhas que irão compor o rodapé da tabela.
+
+Para alinhar horizontalmente uma tabela (<table>) no centro da página, utilizamos qual atributo?
+	align="center"
+
+Diferença entre os atributos cellpadding e cellspacing da <table>?
+	cellpadding = espaço da borda da célula para o conteúdo e cellspacing = espaço entre as células.
+
+O que faz a tag <thead>?
+	Define as linhas que irão compor o cabeçalho da tabela.
+
+O que faz o atributo summary?
+	Permite colocar uma descrição bem ampla sobre os dados da tabela, para ajudar na acessibilidade.
+
+O que faz a tag <tr>?
+	Cria linhas na tabela.
+
+O que faz o atributo colspan?
+	Serve para mesclar células na horizontal.
+
+O que faz a tag <th>?
+	Cria células que serão utilizadas para cabeçalho.
