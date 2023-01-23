@@ -7,3 +7,5 @@
 - [Estruturando seu HTML + Formatações](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EcClRvAldKJBu2rCDB4BTVIBcuVNvt_Ea-cGxD5UDhxGww?rtime=uXAz2-H72kg)
 - [Trabalhando com Mídias](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EcavtNMufxRAkJYAjbHWZYIBwpPG34R97gRQy2sMlfT31w?e=BhpvR6)
 - [Trabalhando com tabelas](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/ESjerZza7MZGm5E35V0xPc0BbOdQ-KvUqVNzsNGgyFJhlw?e=BwHo6k)
+## HTML II: Ampliando o Conhecimento
+- [Entendendo HTML Semântico](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EbagA2Ap4IVKoJvotAWQNIIB6PtcePDfyodnDnu6zlmM_A?e=F9TlbR)

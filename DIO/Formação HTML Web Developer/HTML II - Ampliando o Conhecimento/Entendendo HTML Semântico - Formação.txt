@@ -1,0 +1,29 @@
+Para que serve a tag <picture>?
+	Para carregar imagens diferentes de acordo com a resolução da tela do dispositivo.
+
+Qual das opções é que correto dizer sobre a tag <main>?
+	Só pode ser usada uma por página HTML.
+
+São exemplos de tags Estruturais do HTML 5
+	<main>, <header>, <footer>
+
+Para acessibilidade, para que serve o atributo alt de uma tag <img> ?
+	Serve para leitores de tela, conseguirem ler o descritivo de uma imagem.
+
+Qual o consórcio que regulamenta as regras definidas no HTML 5?
+	W3C
+
+São exemplos de tags de Mídia do HTML 5
+	<video>, <audio>, <track>
+
+Qual a sigla da iniciativa voltada para acessibilidade no HTML?
+	WAI - Web Accessibility Initiative
+
+Qual o significado da palavra "semântica"?
+	A semântica é a área da linguística voltada para entender o significado das palavras.
+
+GoogleBot, é um exemplo de quê?
+	Crawler, usado para Web Scraping.
+
+Para que serve o atributo cite, nas tags <blockquote> e <q>?
+	É o atributo onde você insere o link da página que originou aquela citação.

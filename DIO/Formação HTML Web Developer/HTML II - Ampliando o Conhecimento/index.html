@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tags HTML 5 - Estrutural</title>
+
+    <style>
+        nav ul {
+            display: flex;
+            list-style: none;
+            margin: 0;
+        }
+
+        nav ul li a {
+            padding: 10px 15px;
+            color: blue;
+            text-decoration: none;
+        }
+        nav ul li a:hover {
+            padding: 10px 15px;
+            color: white;
+            background: blue;
+            border-radius: 15px 0px;
+        }
+
+        blockquote {
+            background: #f5f5f5;
+            padding: 15px;
+            margin-left: 0px;
+            border-left: red solid 5px;
+        }
+
+        article time {
+            font-style: italic;
+        }
+
+        article q {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Item 1</a></li>
+                <li><a href="#">Item 2</a></li>
+                <li><a href="tel:+5521972534121">Telefone</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <article>
+            <h1>Descoberta de vida em outro planeta</h1>
+            <p>Artigo publicado em <time datetime="" pubdate> 21/01/2022 19:00</time></p>
+            <p>Segundo alunos e alunas da DIO.me, <q cite="http://">Este é o melhor curso de HTML que já fizeram!</q></p>
+            <blockquote cite="http://">
+                <p>estrela marta é referente à uma estrela bem mais velha que nosso sol</p>
+            </blockquote>
+            
+
+            <p>Qual o seu prato favorito?</p>
+                <article>
+                    <p>É churrasco!</p>
+                </article>
+                <section></section>
+        
+                <aside></aside>
+        </article>
+    </main>
+
+    <figure>
+        <img src="" width="" alt="acessibilidade" aria-hidden="false" aria-expanded="false">
+        <figcaption>descrição</figcaption>
+    </figure>
+
+    <picture>
+        <source srcset="small" media="(min-width: 600px)">
+        <img src="medium" alt="">
+    </picture>
+
+    <footer>
+        <address>Rua</address>
+    </footer>
+    
+
+</body>
+</html>
