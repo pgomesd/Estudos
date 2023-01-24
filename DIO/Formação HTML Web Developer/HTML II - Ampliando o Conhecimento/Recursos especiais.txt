@@ -1,0 +1,34 @@
+O que faz o novo atributo "maxlength" em um textarea?
+    Define uma quantidade máxima de caracteres a serem inseridos.
+
+O que faz o atributo "required" na tag <select>?
+    Torna o campo de preenchimento obrigatório.
+
+O que faz a tag <progress>?
+    Serve para definir uma barra de progresso. Geralmente ilustra um carregamento
+que tem um começo, meio e fim.
+
+Qual a finalidade da tag <summary>?
+    Usado dentro da tag <details>, ele exibe um título, facilitando o entendimento
+sobre o aquele texto abaixo se refere.
+
+O que faz o atributo "form" na tag <input>?
+    Mostra para o navegador, de qual formulário, aquele campo se refere.
+
+O que faz o atributo "placeholder" na tag <input>?
+    Coloca uma espécie de marca d'agua no campo, mostrando como deve ser os valores
+inseridos nele.
+
+Para que serve a tag <kbd>?
+    Serve para delimitar um texto que se refere a teclas do teclado.
+
+O que faz a tag <canvas>?
+    Tag voltada para ser manipulada graficamente, via JavaScript. Muito utilizada
+para desenvolvimento de jogos.
+
+O que faz a tag <meter>?
+    Serve para ilustrar medidas, como temperatura, espaço em disco, entre outros.
+
+O que é DOM?
+    Document Object Model (Modelo de Documento por Objetos). É uma convenção,
+fiscalizada pela W3C, para representação de objetos em documentos html.

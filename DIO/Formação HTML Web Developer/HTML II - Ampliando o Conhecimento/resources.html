@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recursos Especiais</title>
+    <style>
+        kbd {
+            border: solid 1px black;
+        }
+        code {
+            background-color: #f1f1f1;
+            color: blue;
+        }
+        pre {
+            background-color: #f1f1f1;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <input list="browsers" type="search" name="search">
+    <datalist id="browsers">        
+        <option value="">Selecione um navegador</option>
+        <option value="chrome">Google Chrome</option>
+        <option value="firefox">Mozilla Firefox</option>
+        <option value="edge">Microsoft Edge</option>
+        <option value="safari">Safari</option>
+        <option value="opera">Opera</option>
+    </datalist>
+
+    <hr>
+
+    <p>Para copiar esta informação, pressione <kbd>CTRL+C</kbd></p>
+    <p>Para trocar o fundo de um elemento, utilize o comando <code>background-color</code></p>
+    <p>Comando completo de alterar cor de fundo:</p>
+    <pre>
+        code {
+            background-color: #f1f1f1;
+            color: blueviolet;
+        }
+    </pre>
+
+    <details>
+        <summary>Como troco a cor de fundo de um elemento no HTML?</summary>
+        <p>Para executar esta ação, utilize o comando <CODE>background-color</CODE> no CSS.</p>
+    </details>
+
+    <hr>
+
+    <meter max="" min="" value=""></meter>
+    <progress id="progress" max="100" min="0" value="0"></progress>
+
+    <script>
+        var progress = document.getElementById('progress')
+        const interval = setInterval(() => {
+            progress.value += 10;
+            if (progress.value >= 100) {
+                alert('Carregamento concluido.')
+                clearInterval(interval);
+            }    
+        }, 1000);
+
+    </script>
+
+    <hr>
+
+    <input type="text" id="busca"><br>
+    <p id="descricao">Os nossos cursos e programas de formação são criados em conjunto com especialistas
+        das esmpresas mais inovadoras do mundo, aplicando uma metodologia para que você domine as tecnologias
+        utilizadas no mercado e também mergulhe nas novas e mais atuais tecnologias que impactarão o futuro
+        dos negócios digitais.
+    </p>
+    <script>
+        var searchField = document.getElementById('busca');
+        var descriptionObject = document.getElementById('descricao');
+        var textToSearch =  descriptionObject.innerHTML;
+
+        function realizaBusca(busca) {
+            const regex = new RegExp(`(${busca})(?!(.(?!<mark))*</mark>)+`, 'ig');
+            const ocurrences = textToSearch.match(regex);
+            descriptionObject.innerHTML = textToSearch.replace(regex, `<mark>${busca}</mark>`)
+        }
+
+        searchField.addEventListener('keyup', (e) => realizaBusca(e.target.value));
+    </script>
+
+    <hr>
+
+    <canvas id="myCanvas" width="200" height="100" style="border: 1px solid black;">
+
+    </canvas>
+    <script>
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        ctx.moveTo(0, 0);
+        ctx.lineTo(200, 100);
+        ctx.stroke();
+    </script>
+
+    <hr>
+
+    <h1 contenteditable="">Novos atributos</h1>
+    <form action="" method="get" id="form">
+        <fieldset>
+            <legend>Dados pessoais</legend>
+            <label for="name">Name: <input required autofocus type="text" id="name" name="name" form="form"></label>
+            <label for="email">E-mail: <input required placeholder="exemplo" type="email" id="email" name="email"></label>
+        </fieldset>
+
+        <fieldset>
+            <legend>Endereço</legend>
+            <label for="endereco">Endereço: <input required type="text" id="address" name="address"></label>
+        </fieldset>
+
+        <fieldset disabled>
+            <legend>Observações</legend>
+            <textarea minlength="10" maxlength="250" name="message" id="textarea" cols="30" rows="10"></textarea>
+        </fieldset>
+
+        <button type="reset">Limpar</button>
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
