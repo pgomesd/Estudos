@@ -9,3 +9,4 @@
 - [Trabalhando com tabelas](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/ESjerZza7MZGm5E35V0xPc0BbOdQ-KvUqVNzsNGgyFJhlw?e=BwHo6k)
 ## HTML II: Ampliando o Conhecimento
 - [Entendendo HTML Semântico](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/EbagA2Ap4IVKoJvotAWQNIIB6PtcePDfyodnDnu6zlmM_A?e=F9TlbR)
+- [Recursos Especiais](https://academiapme-my.sharepoint.com/:p:/g/personal/renato_dio_me/Ef4_1HCQqm5NnvoIsvonKcIBSd3W2ddTa1bpBevWDAkWNA?rtime=A3sXP1v-2kg)
