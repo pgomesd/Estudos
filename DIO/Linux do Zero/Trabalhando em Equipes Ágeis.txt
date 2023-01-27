@@ -1,0 +1,19 @@
+Originalmente, o Kanban foi criado com o objetivo de gestão de estoque e diminuição de desperdícios.
+
+Projeto é um esforço temporário para atingir um objetivo exclusivo.
+
+Valores do manifesto ágil:
+    Indíviduos e interações > Processos e ferramentas.
+    Responder a mudanças > Seguir um plano.
+    Software em funcionamento > Documentação abrangente.
+    Colaboração com o cliente > Negociação de contratos.
+
+Scrum é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos.
+O Scrum é baseado no Empirismo e Lean Thinking.
+Desenvolvimento iterativo e incremental é um benefício do gerenciamento ágil de projetos com scrum.
+
+Características da Gestão Ágil:
+    Adaptação
+    Colaboração
+    Melhoria Contínua
+    Transparência
